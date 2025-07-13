@@ -1,0 +1,1013 @@
+awardYear,category,categoryFullName,dateAwarded,prizeAmount,prizeAmountAdjusted,linksHref,laureateID,laureateName,laureateSortOrder
+1901,Chemistry,The Nobel Prize in Chemistry,1901-11-12,150782,9704878,https://api.nobelprize.org/2/nobelPrize/che/1901,160,Jacobus H. van 't Hoff,1
+1901,Literature,The Nobel Prize in Literature,1901-11-14,150782,9704878,https://api.nobelprize.org/2/nobelPrize/lit/1901,569,Sully Prudhomme,1
+1901,Peace,The Nobel Peace Prize,1901-12-10,150782,9704878,https://api.nobelprize.org/2/nobelPrize/pea/1901,462,Henry Dunant,1
+1901,Peace,The Nobel Peace Prize,1901-12-10,150782,9704878,https://api.nobelprize.org/2/nobelPrize/pea/1901,463,Frédéric Passy,2
+1901,Physics,The Nobel Prize in Physics,1901-11-12,150782,9704878,https://api.nobelprize.org/2/nobelPrize/phy/1901,1,Wilhelm Conrad Röntgen,1
+1901,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1901-10-30,150782,9704878,https://api.nobelprize.org/2/nobelPrize/med/1901,293,Emil von Behring,1
+1902,Chemistry,The Nobel Prize in Chemistry,1902-11-11,141847,9129789,https://api.nobelprize.org/2/nobelPrize/che/1902,161,Emil Fischer,1
+1902,Literature,The Nobel Prize in Literature,1902-11-13,141847,9129789,https://api.nobelprize.org/2/nobelPrize/lit/1902,571,Theodor Mommsen,1
+1902,Peace,The Nobel Peace Prize,1902-12-10,141847,9129789,https://api.nobelprize.org/2/nobelPrize/pea/1902,464,Élie Ducommun,1
+1902,Peace,The Nobel Peace Prize,1902-12-10,141847,9129789,https://api.nobelprize.org/2/nobelPrize/pea/1902,465,Albert Gobat,2
+1902,Physics,The Nobel Prize in Physics,1902-11-11,141847,9129789,https://api.nobelprize.org/2/nobelPrize/phy/1902,2,Hendrik A. Lorentz,1
+1902,Physics,The Nobel Prize in Physics,1902-11-11,141847,9129789,https://api.nobelprize.org/2/nobelPrize/phy/1902,3,Pieter Zeeman,2
+1902,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1902-10-30,141847,9129789,https://api.nobelprize.org/2/nobelPrize/med/1902,294,Ronald Ross,1
+1903,Chemistry,The Nobel Prize in Chemistry,1903-11-12,141358,8830717,https://api.nobelprize.org/2/nobelPrize/che/1903,162,Svante Arrhenius,1
+1903,Literature,The Nobel Prize in Literature,1903-11-19,141358,8830717,https://api.nobelprize.org/2/nobelPrize/lit/1903,572,Bjørnstjerne Bjørnson,1
+1903,Peace,The Nobel Peace Prize,1903-12-10,141358,8830717,https://api.nobelprize.org/2/nobelPrize/pea/1903,466,Randal Cremer,1
+1903,Physics,The Nobel Prize in Physics,1903-11-12,141358,8830717,https://api.nobelprize.org/2/nobelPrize/phy/1903,4,Henri Becquerel,1
+1903,Physics,The Nobel Prize in Physics,1903-11-12,141358,8830717,https://api.nobelprize.org/2/nobelPrize/phy/1903,5,Pierre Curie,2
+1903,Physics,The Nobel Prize in Physics,1903-11-12,141358,8830717,https://api.nobelprize.org/2/nobelPrize/phy/1903,6,Marie Curie,3
+1903,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1903-10-15,141358,8830717,https://api.nobelprize.org/2/nobelPrize/med/1903,295,Niels Ryberg Finsen,1
+1904,Chemistry,The Nobel Prize in Chemistry,1904-11-08,140859,8799545,https://api.nobelprize.org/2/nobelPrize/che/1904,163,Sir William Ramsay,1
+1904,Literature,The Nobel Prize in Literature,1904-11-17,140859,8799545,https://api.nobelprize.org/2/nobelPrize/lit/1904,573,Frédéric Mistral,1
+1904,Literature,The Nobel Prize in Literature,1904-11-17,140859,8799545,https://api.nobelprize.org/2/nobelPrize/lit/1904,574,José Echegaray,2
+1904,Peace,The Nobel Peace Prize,1904-12-10,140859,8799545,https://api.nobelprize.org/2/nobelPrize/pea/1904,467,,1
+1904,Physics,The Nobel Prize in Physics,1904-11-08,140859,8799545,https://api.nobelprize.org/2/nobelPrize/phy/1904,8,Lord Rayleigh,1
+1904,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1904-10-20,140859,8799545,https://api.nobelprize.org/2/nobelPrize/med/1904,296,Ivan Pavlov,1
+1905,Chemistry,The Nobel Prize in Chemistry,1905-11-09,138089,8626501,https://api.nobelprize.org/2/nobelPrize/che/1905,164,Adolf von Baeyer,1
+1905,Literature,The Nobel Prize in Literature,1905-11-09,138089,8626501,https://api.nobelprize.org/2/nobelPrize/lit/1905,575,Henryk Sienkiewicz,1
+1905,Peace,The Nobel Peace Prize,1905-12-10,138089,8626501,https://api.nobelprize.org/2/nobelPrize/pea/1905,468,Bertha von Suttner,1
+1905,Physics,The Nobel Prize in Physics,1905-11-09,138089,8626501,https://api.nobelprize.org/2/nobelPrize/phy/1905,9,Philipp Lenard,1
+1905,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1905-10-12,138089,8626501,https://api.nobelprize.org/2/nobelPrize/med/1905,297,Robert Koch,1
+1906,Chemistry,The Nobel Prize in Chemistry,1906-11-12,138536,8407156,https://api.nobelprize.org/2/nobelPrize/che/1906,165,Henri Moissan,1
+1906,Literature,The Nobel Prize in Literature,1906-11-08,138536,8407156,https://api.nobelprize.org/2/nobelPrize/lit/1906,576,Giosuè Carducci,1
+1906,Peace,The Nobel Peace Prize,1906-12-10,138536,8407156,https://api.nobelprize.org/2/nobelPrize/pea/1906,470,Theodore Roosevelt,1
+1906,Physics,The Nobel Prize in Physics,1906-11-12,138536,8407156,https://api.nobelprize.org/2/nobelPrize/phy/1906,10,J.J. Thomson,1
+1906,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1906-10-25,138536,8407156,https://api.nobelprize.org/2/nobelPrize/med/1906,298,Camillo Golgi,1
+1906,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1906-10-25,138536,8407156,https://api.nobelprize.org/2/nobelPrize/med/1906,299,Santiago Ramón y Cajal,2
+1907,Chemistry,The Nobel Prize in Chemistry,1907-11-12,138796,7967641,https://api.nobelprize.org/2/nobelPrize/che/1907,166,Eduard Buchner,1
+1907,Literature,The Nobel Prize in Literature,1907-11-07,138796,7967641,https://api.nobelprize.org/2/nobelPrize/lit/1907,577,Rudyard Kipling,1
+1907,Peace,The Nobel Peace Prize,1907-12-10,138796,7967641,https://api.nobelprize.org/2/nobelPrize/pea/1907,471,Ernesto Teodoro Moneta,1
+1907,Peace,The Nobel Peace Prize,1907-12-10,138796,7967641,https://api.nobelprize.org/2/nobelPrize/pea/1907,472,Louis Renault,2
+1907,Physics,The Nobel Prize in Physics,1907-11-12,138796,7967641,https://api.nobelprize.org/2/nobelPrize/phy/1907,11,Albert A. Michelson,1
+1907,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1907-10-31,138796,7967641,https://api.nobelprize.org/2/nobelPrize/med/1907,300,Alphonse Laveran,1
+1908,Chemistry,The Nobel Prize in Chemistry,1908-11-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/che/1908,167,Ernest Rutherford,1
+1908,Literature,The Nobel Prize in Literature,1908-11-12,139800,8025276,https://api.nobelprize.org/2/nobelPrize/lit/1908,578,Rudolf Eucken,1
+1908,Peace,The Nobel Peace Prize,1908-12-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/pea/1908,473,Klas Pontus Arnoldson,1
+1908,Peace,The Nobel Peace Prize,1908-12-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/pea/1908,474,Fredrik Bajer,2
+1908,Physics,The Nobel Prize in Physics,1908-11-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/phy/1908,12,Gabriel Lippmann,1
+1908,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1908-10-29,139800,8025276,https://api.nobelprize.org/2/nobelPrize/med/1908,301,Ilya Mechnikov,1
+1908,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1908-10-29,139800,8025276,https://api.nobelprize.org/2/nobelPrize/med/1908,302,Paul Ehrlich,2
+1909,Chemistry,The Nobel Prize in Chemistry,1909-11-09,139800,8025276,https://api.nobelprize.org/2/nobelPrize/che/1909,168,Wilhelm Ostwald,1
+1909,Literature,The Nobel Prize in Literature,1909-11-11,139800,8025276,https://api.nobelprize.org/2/nobelPrize/lit/1909,579,Selma Lagerlöf,1
+1909,Peace,The Nobel Peace Prize,1909-12-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/pea/1909,475,Auguste Beernaert,1
+1909,Peace,The Nobel Peace Prize,1909-12-10,139800,8025276,https://api.nobelprize.org/2/nobelPrize/pea/1909,476,Paul Henri d'Estournelles de Constant,2
+1909,Physics,The Nobel Prize in Physics,1909-11-09,139800,8025276,https://api.nobelprize.org/2/nobelPrize/phy/1909,13,Guglielmo Marconi,1
+1909,Physics,The Nobel Prize in Physics,1909-11-09,139800,8025276,https://api.nobelprize.org/2/nobelPrize/phy/1909,14,Ferdinand Braun,2
+1909,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1909-10-28,139800,8025276,https://api.nobelprize.org/2/nobelPrize/med/1909,303,Theodor Kocher,1
+1910,Chemistry,The Nobel Prize in Chemistry,1910-11-12,140703,8077113,https://api.nobelprize.org/2/nobelPrize/che/1910,169,Otto Wallach,1
+1910,Literature,The Nobel Prize in Literature,1910-11-10,140703,8077113,https://api.nobelprize.org/2/nobelPrize/lit/1910,580,Paul Heyse,1
+1910,Peace,The Nobel Peace Prize,1910-12-10,140703,8077113,https://api.nobelprize.org/2/nobelPrize/pea/1910,477,,1
+1910,Physics,The Nobel Prize in Physics,1910-11-05,140703,8077113,https://api.nobelprize.org/2/nobelPrize/phy/1910,15,Johannes Diderik van der Waals,1
+1910,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1910-10-20,140703,8077113,https://api.nobelprize.org/2/nobelPrize/med/1910,304,Albrecht Kossel,1
+1911,Chemistry,The Nobel Prize in Chemistry,1911-11-07,140695,8301005,https://api.nobelprize.org/2/nobelPrize/che/1911,6,Marie Curie,1
+1911,Literature,The Nobel Prize in Literature,1911-11-09,140695,8301005,https://api.nobelprize.org/2/nobelPrize/lit/1911,581,Maurice Maeterlinck,1
+1911,Peace,The Nobel Peace Prize,1911-12-10,140695,8301005,https://api.nobelprize.org/2/nobelPrize/pea/1911,478,Tobias Asser,1
+1911,Peace,The Nobel Peace Prize,1911-12-10,140695,8301005,https://api.nobelprize.org/2/nobelPrize/pea/1911,479,Alfred Fried,2
+1911,Physics,The Nobel Prize in Physics,1911-11-07,140695,8301005,https://api.nobelprize.org/2/nobelPrize/phy/1911,16,Wilhelm Wien,1
+1911,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1911-10-19,140695,8301005,https://api.nobelprize.org/2/nobelPrize/med/1911,305,Allvar Gullstrand,1
+1912,Chemistry,The Nobel Prize in Chemistry,1912-11-12,140476,7650539,https://api.nobelprize.org/2/nobelPrize/che/1912,172,Victor Grignard,1
+1912,Chemistry,The Nobel Prize in Chemistry,1912-11-12,140476,7650539,https://api.nobelprize.org/2/nobelPrize/che/1912,173,Paul Sabatier,2
+1912,Literature,The Nobel Prize in Literature,1912-11-14,140476,7650539,https://api.nobelprize.org/2/nobelPrize/lit/1912,582,Gerhart Hauptmann,1
+1912,Peace,The Nobel Peace Prize,1913-12-10,140476,7650539,https://api.nobelprize.org/2/nobelPrize/pea/1912,480,Elihu Root,1
+1912,Physics,The Nobel Prize in Physics,1912-11-12,140476,7650539,https://api.nobelprize.org/2/nobelPrize/phy/1912,17,Gustaf Dalén,1
+1912,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1912-10-10,140476,7650539,https://api.nobelprize.org/2/nobelPrize/med/1912,306,Alexis Carrel,1
+1913,Chemistry,The Nobel Prize in Chemistry,1913-11-11,143010,7788545,https://api.nobelprize.org/2/nobelPrize/che/1913,174,Alfred Werner,1
+1913,Literature,The Nobel Prize in Literature,1913-11-13,143010,7788545,https://api.nobelprize.org/2/nobelPrize/lit/1913,583,Rabindranath Tagore,1
+1913,Peace,The Nobel Peace Prize,1913-12-10,143010,7788545,https://api.nobelprize.org/2/nobelPrize/pea/1913,481,Henri La Fontaine,1
+1913,Physics,The Nobel Prize in Physics,1913-11-11,143010,7788545,https://api.nobelprize.org/2/nobelPrize/phy/1913,18,Heike Kamerlingh Onnes,1
+1913,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1913-10-30,143010,7788545,https://api.nobelprize.org/2/nobelPrize/med/1913,307,Charles Richet,1
+1914,Chemistry,The Nobel Prize in Chemistry,1915-11-11,146900,8000400,https://api.nobelprize.org/2/nobelPrize/che/1914,175,Theodore W. Richards,1
+1914,Physics,The Nobel Prize in Physics,1915-11-11,146900,8000400,https://api.nobelprize.org/2/nobelPrize/phy/1914,19,Max von Laue,1
+1914,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1915-10-29,146900,8000400,https://api.nobelprize.org/2/nobelPrize/med/1914,308,Robert Bárány,1
+1915,Chemistry,The Nobel Prize in Chemistry,1915-11-11,149223,7043326,https://api.nobelprize.org/2/nobelPrize/che/1915,176,Richard Willstätter,1
+1915,Literature,The Nobel Prize in Literature,1916-11-09,149223,7043326,https://api.nobelprize.org/2/nobelPrize/lit/1915,584,Romain Rolland,1
+1915,Physics,The Nobel Prize in Physics,1915-11-12,149223,7043326,https://api.nobelprize.org/2/nobelPrize/phy/1915,20,William Bragg,1
+1915,Physics,The Nobel Prize in Physics,1915-11-12,149223,7043326,https://api.nobelprize.org/2/nobelPrize/phy/1915,21,Lawrence Bragg,2
+1916,Literature,The Nobel Prize in Literature,1916-11-09,131793,5488791,https://api.nobelprize.org/2/nobelPrize/lit/1916,585,Verner von Heidenstam,1
+1917,Literature,The Nobel Prize in Literature,1917-11-08,133823,4441251,https://api.nobelprize.org/2/nobelPrize/lit/1917,586,Karl Gjellerup,1
+1917,Literature,The Nobel Prize in Literature,1917-11-08,133823,4441251,https://api.nobelprize.org/2/nobelPrize/lit/1917,587,Henrik Pontoppidan,2
+1917,Peace,The Nobel Peace Prize,1917-12-10,133823,4441251,https://api.nobelprize.org/2/nobelPrize/pea/1917,482,,1
+1917,Physics,The Nobel Prize in Physics,1918-11-12,133823,4441251,https://api.nobelprize.org/2/nobelPrize/phy/1917,22,Charles Glover Barkla,1
+1918,Chemistry,The Nobel Prize in Chemistry,1919-11-13,138198,3225632,https://api.nobelprize.org/2/nobelPrize/che/1918,177,Fritz Haber,1
+1918,Physics,The Nobel Prize in Physics,1919-11-13,138198,3225632,https://api.nobelprize.org/2/nobelPrize/phy/1918,23,Max Planck,1
+1919,Literature,The Nobel Prize in Literature,1920-11-11,133127,2692969,https://api.nobelprize.org/2/nobelPrize/lit/1919,588,Carl Spitteler,1
+1919,Peace,The Nobel Peace Prize,1920-12-10,133127,2692969,https://api.nobelprize.org/2/nobelPrize/pea/1919,483,Woodrow Wilson,1
+1919,Physics,The Nobel Prize in Physics,1919-11-13,133127,2692969,https://api.nobelprize.org/2/nobelPrize/phy/1919,24,Johannes Stark,1
+1919,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1920-10-28,133127,2692969,https://api.nobelprize.org/2/nobelPrize/med/1919,309,Jules Bordet,1
+1920,Chemistry,The Nobel Prize in Chemistry,1921-11-10,134100,2712651,https://api.nobelprize.org/2/nobelPrize/che/1920,178,Walther Nernst,1
+1920,Literature,The Nobel Prize in Literature,1920-11-11,134100,2712651,https://api.nobelprize.org/2/nobelPrize/lit/1920,589,Knut Hamsun,1
+1920,Peace,The Nobel Peace Prize,1920-12-10,134100,2712651,https://api.nobelprize.org/2/nobelPrize/pea/1920,484,Léon Bourgeois,1
+1920,Physics,The Nobel Prize in Physics,1920-11-11,134100,2712651,https://api.nobelprize.org/2/nobelPrize/phy/1920,25,Charles Edouard Guillaume,1
+1920,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1920-10-28,134100,2712651,https://api.nobelprize.org/2/nobelPrize/med/1920,310,August Krogh,1
+1921,Chemistry,The Nobel Prize in Chemistry,1922-11-09,121573,2869123,https://api.nobelprize.org/2/nobelPrize/che/1921,179,Frederick Soddy,1
+1921,Literature,The Nobel Prize in Literature,1921-11-10,121573,2869123,https://api.nobelprize.org/2/nobelPrize/lit/1921,590,Anatole France,1
+1921,Peace,The Nobel Peace Prize,1921-12-10,121573,2869123,https://api.nobelprize.org/2/nobelPrize/pea/1921,485,Hjalmar Branting,1
+1921,Peace,The Nobel Peace Prize,1921-12-10,121573,2869123,https://api.nobelprize.org/2/nobelPrize/pea/1921,486,Christian Lange,2
+1921,Physics,The Nobel Prize in Physics,1922-11-09,121573,2869123,https://api.nobelprize.org/2/nobelPrize/phy/1921,26,Albert Einstein,1
+1922,Chemistry,The Nobel Prize in Chemistry,1922-11-09,122483,3563752,https://api.nobelprize.org/2/nobelPrize/che/1922,180,Francis W. Aston,1
+1922,Literature,The Nobel Prize in Literature,1922-11-09,122483,3563752,https://api.nobelprize.org/2/nobelPrize/lit/1922,592,Jacinto Benavente,1
+1922,Peace,The Nobel Peace Prize,1922-12-10,122483,3563752,https://api.nobelprize.org/2/nobelPrize/pea/1922,487,Fridtjof Nansen,1
+1922,Physics,The Nobel Prize in Physics,1922-11-09,122483,3563752,https://api.nobelprize.org/2/nobelPrize/phy/1922,27,Niels Bohr,1
+1922,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1922-10-25,122483,3563752,https://api.nobelprize.org/2/nobelPrize/med/1922,311,Archibald V. Hill,1
+1922,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1922-10-25,122483,3563752,https://api.nobelprize.org/2/nobelPrize/med/1922,312,Otto Meyerhof,2
+1923,Chemistry,The Nobel Prize in Chemistry,1923-11-13,114935,3590029,https://api.nobelprize.org/2/nobelPrize/che/1923,181,Fritz Pregl,1
+1923,Literature,The Nobel Prize in Literature,1923-11-14,114935,3590029,https://api.nobelprize.org/2/nobelPrize/lit/1923,593,William Butler Yeats,1
+1923,Physics,The Nobel Prize in Physics,1923-11-13,114935,3590029,https://api.nobelprize.org/2/nobelPrize/phy/1923,28,Robert A. Millikan,1
+1923,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1923-10-25,114935,3590029,https://api.nobelprize.org/2/nobelPrize/med/1923,313,Frederick G. Banting,1
+1923,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1923-10-25,114935,3590029,https://api.nobelprize.org/2/nobelPrize/med/1923,314,John Macleod,2
+1924,Literature,The Nobel Prize in Literature,1924-11-13,116719,3645752,https://api.nobelprize.org/2/nobelPrize/lit/1924,594,Władysław Reymont,1
+1924,Physics,The Nobel Prize in Physics,1925-11-12,116719,3645752,https://api.nobelprize.org/2/nobelPrize/phy/1924,29,Manne Siegbahn,1
+1924,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1924-10-23,116719,3645752,https://api.nobelprize.org/2/nobelPrize/med/1924,315,Willem Einthoven,1
+1925,Chemistry,The Nobel Prize in Chemistry,1926-11-11,118165,3637427,https://api.nobelprize.org/2/nobelPrize/che/1925,182,Richard Zsigmondy,1
+1925,Literature,The Nobel Prize in Literature,1926-11-11,118165,3637427,https://api.nobelprize.org/2/nobelPrize/lit/1925,596,George Bernard Shaw,1
+1925,Peace,The Nobel Peace Prize,1926-12-10,118165,3637427,https://api.nobelprize.org/2/nobelPrize/pea/1925,488,Sir Austen Chamberlain,1
+1925,Peace,The Nobel Peace Prize,1926-12-10,118165,3637427,https://api.nobelprize.org/2/nobelPrize/pea/1925,489,Charles G. Dawes,2
+1925,Physics,The Nobel Prize in Physics,1926-11-11,118165,3637427,https://api.nobelprize.org/2/nobelPrize/phy/1925,30,James Franck,1
+1925,Physics,The Nobel Prize in Physics,1926-11-11,118165,3637427,https://api.nobelprize.org/2/nobelPrize/phy/1925,31,Gustav Hertz,2
+1926,Chemistry,The Nobel Prize in Chemistry,1926-11-11,116960,3707807,https://api.nobelprize.org/2/nobelPrize/che/1926,183,The Svedberg,1
+1926,Literature,The Nobel Prize in Literature,1927-11-10,116960,3707807,https://api.nobelprize.org/2/nobelPrize/lit/1926,597,Grazia Deledda,1
+1926,Peace,The Nobel Peace Prize,1926-12-10,116960,3707807,https://api.nobelprize.org/2/nobelPrize/pea/1926,490,Aristide Briand,1
+1926,Peace,The Nobel Peace Prize,1926-12-10,116960,3707807,https://api.nobelprize.org/2/nobelPrize/pea/1926,491,Gustav Stresemann,2
+1926,Physics,The Nobel Prize in Physics,1926-11-11,116960,3707807,https://api.nobelprize.org/2/nobelPrize/phy/1926,32,Jean Baptiste Perrin,1
+1926,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1927-10-27,116960,3707807,https://api.nobelprize.org/2/nobelPrize/med/1926,316,Johannes Fibiger,1
+1927,Chemistry,The Nobel Prize in Chemistry,1928-11-13,126501,4071032,https://api.nobelprize.org/2/nobelPrize/che/1927,184,Heinrich Wieland,1
+1927,Literature,The Nobel Prize in Literature,1928-11-13,126501,4071032,https://api.nobelprize.org/2/nobelPrize/lit/1927,600,Henri Bergson,1
+1927,Peace,The Nobel Peace Prize,1927-12-10,126501,4071032,https://api.nobelprize.org/2/nobelPrize/pea/1927,492,Ferdinand Buisson,1
+1927,Peace,The Nobel Peace Prize,1927-12-10,126501,4071032,https://api.nobelprize.org/2/nobelPrize/pea/1927,493,Ludwig Quidde,2
+1927,Physics,The Nobel Prize in Physics,1927-11-10,126501,4071032,https://api.nobelprize.org/2/nobelPrize/phy/1927,33,Arthur H. Compton,1
+1927,Physics,The Nobel Prize in Physics,1927-11-10,126501,4071032,https://api.nobelprize.org/2/nobelPrize/phy/1927,34,C.T.R. Wilson,2
+1927,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1927-10-27,126501,4071032,https://api.nobelprize.org/2/nobelPrize/med/1927,317,Julius Wagner-Jauregg,1
+1928,Chemistry,The Nobel Prize in Chemistry,1928-11-13,156939,5050582,https://api.nobelprize.org/2/nobelPrize/che/1928,185,Adolf Windaus,1
+1928,Literature,The Nobel Prize in Literature,1928-11-13,156939,5050582,https://api.nobelprize.org/2/nobelPrize/lit/1928,601,Sigrid Undset,1
+1928,Physics,The Nobel Prize in Physics,1929-11-12,156939,5050582,https://api.nobelprize.org/2/nobelPrize/phy/1928,35,Owen Willans Richardson,1
+1928,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1928-10-25,156939,5050582,https://api.nobelprize.org/2/nobelPrize/med/1928,318,Charles Nicolle,1
+1929,Chemistry,The Nobel Prize in Chemistry,1929-11-12,172760,5559731,https://api.nobelprize.org/2/nobelPrize/che/1929,186,Arthur Harden,1
+1929,Chemistry,The Nobel Prize in Chemistry,1929-11-12,172760,5559731,https://api.nobelprize.org/2/nobelPrize/che/1929,187,Hans von Euler-Chelpin,2
+1929,Literature,The Nobel Prize in Literature,1929-11-12,172760,5559731,https://api.nobelprize.org/2/nobelPrize/lit/1929,602,Thomas Mann,1
+1929,Peace,The Nobel Peace Prize,1930-12-10,172760,5559731,https://api.nobelprize.org/2/nobelPrize/pea/1929,494,Frank B. Kellogg,1
+1929,Physics,The Nobel Prize in Physics,1929-11-12,172760,5559731,https://api.nobelprize.org/2/nobelPrize/phy/1929,36,Louis de Broglie,1
+1929,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1929-10-31,172760,5559731,https://api.nobelprize.org/2/nobelPrize/med/1929,319,Christiaan Eijkman,1
+1929,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1929-10-31,172760,5559731,https://api.nobelprize.org/2/nobelPrize/med/1929,320,Sir Frederick Hopkins,2
+1930,Chemistry,The Nobel Prize in Chemistry,1930-11-13,172947,5739679,https://api.nobelprize.org/2/nobelPrize/che/1930,188,Hans Fischer,1
+1930,Literature,The Nobel Prize in Literature,1930-11-05,172947,5739679,https://api.nobelprize.org/2/nobelPrize/lit/1930,603,Sinclair Lewis,1
+1930,Peace,The Nobel Peace Prize,1930-12-10,172947,5739679,https://api.nobelprize.org/2/nobelPrize/pea/1930,495,Nathan Söderblom,1
+1930,Physics,The Nobel Prize in Physics,1930-11-13,172947,5739679,https://api.nobelprize.org/2/nobelPrize/phy/1930,37,Sir Chandrasekhara Venkata Raman,1
+1930,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1930-10-30,172947,5739679,https://api.nobelprize.org/2/nobelPrize/med/1930,321,Karl Landsteiner,1
+1931,Chemistry,The Nobel Prize in Chemistry,1931-11-12,173206,5933702,https://api.nobelprize.org/2/nobelPrize/che/1931,189,Carl Bosch,1
+1931,Chemistry,The Nobel Prize in Chemistry,1931-11-12,173206,5933702,https://api.nobelprize.org/2/nobelPrize/che/1931,190,Friedrich Bergius,2
+1931,Literature,The Nobel Prize in Literature,1931-11-08,173206,5933702,https://api.nobelprize.org/2/nobelPrize/lit/1931,604,Erik Axel Karlfeldt,1
+1931,Peace,The Nobel Peace Prize,1931-12-10,173206,5933702,https://api.nobelprize.org/2/nobelPrize/pea/1931,496,Jane Addams,1
+1931,Peace,The Nobel Peace Prize,1931-12-10,173206,5933702,https://api.nobelprize.org/2/nobelPrize/pea/1931,497,Nicholas Murray Butler,2
+1931,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1931-10-29,173206,5933702,https://api.nobelprize.org/2/nobelPrize/med/1931,322,Otto Warburg,1
+1932,Chemistry,The Nobel Prize in Chemistry,1932-11-10,171753,5980383,https://api.nobelprize.org/2/nobelPrize/che/1932,191,Irving Langmuir,1
+1932,Literature,The Nobel Prize in Literature,1932-11-10,171753,5980383,https://api.nobelprize.org/2/nobelPrize/lit/1932,605,John Galsworthy,1
+1932,Physics,The Nobel Prize in Physics,1933-11-09,171753,5980383,https://api.nobelprize.org/2/nobelPrize/phy/1932,38,Werner Heisenberg,1
+1932,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1932-10-27,171753,5980383,https://api.nobelprize.org/2/nobelPrize/med/1932,323,Sir Charles Sherrington,1
+1932,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1932-10-27,171753,5980383,https://api.nobelprize.org/2/nobelPrize/med/1932,324,Edgar Adrian,2
+1933,Literature,The Nobel Prize in Literature,1933-11-09,170332,6131952,https://api.nobelprize.org/2/nobelPrize/lit/1933,606,Ivan Bunin,1
+1933,Peace,The Nobel Peace Prize,1934-12-10,170332,6131952,https://api.nobelprize.org/2/nobelPrize/pea/1933,498,Sir Norman Angell,1
+1933,Physics,The Nobel Prize in Physics,1933-11-09,170332,6131952,https://api.nobelprize.org/2/nobelPrize/phy/1933,39,Erwin Schrödinger,1
+1933,Physics,The Nobel Prize in Physics,1933-11-09,170332,6131952,https://api.nobelprize.org/2/nobelPrize/phy/1933,40,Paul A.M. Dirac,2
+1933,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1933-10-20,170332,6131952,https://api.nobelprize.org/2/nobelPrize/med/1933,325,Thomas H. Morgan,1
+1934,Chemistry,The Nobel Prize in Chemistry,1934-11-15,162608,5853888,https://api.nobelprize.org/2/nobelPrize/che/1934,192,Harold C. Urey,1
+1934,Literature,The Nobel Prize in Literature,1934-11-08,162608,5853888,https://api.nobelprize.org/2/nobelPrize/lit/1934,607,Luigi Pirandello,1
+1934,Peace,The Nobel Peace Prize,1934-12-10,162608,5853888,https://api.nobelprize.org/2/nobelPrize/pea/1934,499,Arthur Henderson,1
+1934,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1934-10-25,162608,5853888,https://api.nobelprize.org/2/nobelPrize/med/1934,326,George H. Whipple,1
+1934,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1934-10-25,162608,5853888,https://api.nobelprize.org/2/nobelPrize/med/1934,327,George R. Minot,2
+1934,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1934-10-25,162608,5853888,https://api.nobelprize.org/2/nobelPrize/med/1934,328,William P. Murphy,3
+1935,Chemistry,The Nobel Prize in Chemistry,1935-11-14,159917,5661062,https://api.nobelprize.org/2/nobelPrize/che/1935,193,Frédéric Joliot,1
+1935,Chemistry,The Nobel Prize in Chemistry,1935-11-14,159917,5661062,https://api.nobelprize.org/2/nobelPrize/che/1935,194,Irène Joliot-Curie,2
+1935,Peace,The Nobel Peace Prize,1936-11-24,159917,5661062,https://api.nobelprize.org/2/nobelPrize/pea/1935,500,Carl von Ossietzky,1
+1935,Physics,The Nobel Prize in Physics,1935-11-14,159917,5661062,https://api.nobelprize.org/2/nobelPrize/phy/1935,41,James Chadwick,1
+1935,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1935-10-24,159917,5661062,https://api.nobelprize.org/2/nobelPrize/med/1935,329,Hans Spemann,1
+1936,Chemistry,The Nobel Prize in Chemistry,1936-11-12,159850,5565925,https://api.nobelprize.org/2/nobelPrize/che/1936,195,Peter Debye,1
+1936,Literature,The Nobel Prize in Literature,1936-11-12,159850,5565925,https://api.nobelprize.org/2/nobelPrize/lit/1936,608,Eugene O'Neill,1
+1936,Peace,The Nobel Peace Prize,1936-11-24,159850,5565925,https://api.nobelprize.org/2/nobelPrize/pea/1936,501,Carlos Saavedra Lamas,1
+1936,Physics,The Nobel Prize in Physics,1936-11-12,159850,5565925,https://api.nobelprize.org/2/nobelPrize/phy/1936,42,Victor F. Hess,1
+1936,Physics,The Nobel Prize in Physics,1936-11-12,159850,5565925,https://api.nobelprize.org/2/nobelPrize/phy/1936,43,Carl D. Anderson,2
+1936,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1936-10-29,159850,5565925,https://api.nobelprize.org/2/nobelPrize/med/1936,330,Sir Henry Dale,1
+1936,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1936-10-29,159850,5565925,https://api.nobelprize.org/2/nobelPrize/med/1936,331,Otto Loewi,2
+1937,Chemistry,The Nobel Prize in Chemistry,1937-11-11,158463,5342467,https://api.nobelprize.org/2/nobelPrize/che/1937,196,Norman Haworth,1
+1937,Chemistry,The Nobel Prize in Chemistry,1937-11-11,158463,5342467,https://api.nobelprize.org/2/nobelPrize/che/1937,197,Paul Karrer,2
+1937,Literature,The Nobel Prize in Literature,1937-11-11,158463,5342467,https://api.nobelprize.org/2/nobelPrize/lit/1937,609,Roger Martin du Gard,1
+1937,Peace,The Nobel Peace Prize,1937-11-18,158463,5342467,https://api.nobelprize.org/2/nobelPrize/pea/1937,502,"Robert Cecil, Viscount Cecil of Chelwood",1
+1937,Physics,The Nobel Prize in Physics,1937-11-11,158463,5342467,https://api.nobelprize.org/2/nobelPrize/phy/1937,44,Clinton Davisson,1
+1937,Physics,The Nobel Prize in Physics,1937-11-11,158463,5342467,https://api.nobelprize.org/2/nobelPrize/phy/1937,45,George Paget Thomson,2
+1937,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1937-10-28,158463,5342467,https://api.nobelprize.org/2/nobelPrize/med/1937,332,Albert Szent-Györgyi,1
+1938,Chemistry,The Nobel Prize in Chemistry,1939-11-09,155077,5146618,https://api.nobelprize.org/2/nobelPrize/che/1938,198,Richard Kuhn,1
+1938,Literature,The Nobel Prize in Literature,1938-11-10,155077,5146618,https://api.nobelprize.org/2/nobelPrize/lit/1938,610,Pearl Buck,1
+1938,Peace,The Nobel Peace Prize,1938-11-17,155077,5146618,https://api.nobelprize.org/2/nobelPrize/pea/1938,503,,1
+1938,Physics,The Nobel Prize in Physics,1938-11-10,155077,5146618,https://api.nobelprize.org/2/nobelPrize/phy/1938,46,Enrico Fermi,1
+1938,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1939-10-26,155077,5146618,https://api.nobelprize.org/2/nobelPrize/med/1938,333,Corneille Heymans,1
+1939,Chemistry,The Nobel Prize in Chemistry,1939-11-09,148822,4789363,https://api.nobelprize.org/2/nobelPrize/che/1939,199,Adolf Butenandt,1
+1939,Chemistry,The Nobel Prize in Chemistry,1939-11-09,148822,4789363,https://api.nobelprize.org/2/nobelPrize/che/1939,200,Leopold Ruzicka,2
+1939,Literature,The Nobel Prize in Literature,1939-11-10,148822,4789363,https://api.nobelprize.org/2/nobelPrize/lit/1939,613,Frans Eemil Sillanpää,1
+1939,Physics,The Nobel Prize in Physics,1939-11-09,148822,4789363,https://api.nobelprize.org/2/nobelPrize/phy/1939,47,Ernest Lawrence,1
+1939,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1939-10-26,148822,4789363,https://api.nobelprize.org/2/nobelPrize/med/1939,334,Gerhard Domagk,1
+1943,Chemistry,The Nobel Prize in Chemistry,1944-11-09,123691,2855649,https://api.nobelprize.org/2/nobelPrize/che/1943,201,George de Hevesy,1
+1943,Physics,The Nobel Prize in Physics,1944-11-09,123691,2855649,https://api.nobelprize.org/2/nobelPrize/phy/1943,48,Otto Stern,1
+1943,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1944-10-26,123691,2855649,https://api.nobelprize.org/2/nobelPrize/med/1943,335,Henrik Dam,1
+1943,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1944-10-26,123691,2855649,https://api.nobelprize.org/2/nobelPrize/med/1943,336,Edward A. Doisy,2
+1944,Chemistry,The Nobel Prize in Chemistry,1945-11-15,121841,2843849,https://api.nobelprize.org/2/nobelPrize/che/1944,202,Otto Hahn,1
+1944,Literature,The Nobel Prize in Literature,1944-11-09,121841,2843849,https://api.nobelprize.org/2/nobelPrize/lit/1944,614,Johannes V. Jensen,1
+1944,Peace,The Nobel Peace Prize,1945-11-12,121841,2843849,https://api.nobelprize.org/2/nobelPrize/pea/1944,482,,1
+1944,Physics,The Nobel Prize in Physics,1944-11-09,121841,2843849,https://api.nobelprize.org/2/nobelPrize/phy/1944,49,Isidor Isaac Rabi,1
+1944,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1944-10-26,121841,2843849,https://api.nobelprize.org/2/nobelPrize/med/1944,337,Joseph Erlanger,1
+1944,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1944-10-26,121841,2843849,https://api.nobelprize.org/2/nobelPrize/med/1944,338,Herbert S. Gasser,2
+1945,Chemistry,The Nobel Prize in Chemistry,1945-11-15,121333,2831992,https://api.nobelprize.org/2/nobelPrize/che/1945,203,Artturi Virtanen,1
+1945,Literature,The Nobel Prize in Literature,1945-11-15,121333,2831992,https://api.nobelprize.org/2/nobelPrize/lit/1945,615,Gabriela Mistral,1
+1945,Peace,The Nobel Peace Prize,1945-11-12,121333,2831992,https://api.nobelprize.org/2/nobelPrize/pea/1945,505,Cordell Hull,1
+1945,Physics,The Nobel Prize in Physics,1945-11-15,121333,2831992,https://api.nobelprize.org/2/nobelPrize/phy/1945,50,Wolfgang Pauli,1
+1945,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1945-10-25,121333,2831992,https://api.nobelprize.org/2/nobelPrize/med/1945,339,Sir Alexander Fleming,1
+1945,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1945-10-25,121333,2831992,https://api.nobelprize.org/2/nobelPrize/med/1945,340,Ernst B. Chain,2
+1945,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1945-10-25,121333,2831992,https://api.nobelprize.org/2/nobelPrize/med/1945,341,Sir Howard Florey,3
+1946,Chemistry,The Nobel Prize in Chemistry,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/che/1946,204,James B. Sumner,1
+1946,Chemistry,The Nobel Prize in Chemistry,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/che/1946,205,John H. Northrop,2
+1946,Chemistry,The Nobel Prize in Chemistry,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/che/1946,206,Wendell M. Stanley,3
+1946,Literature,The Nobel Prize in Literature,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/lit/1946,617,Hermann Hesse,1
+1946,Peace,The Nobel Peace Prize,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/pea/1946,506,Emily Greene Balch,1
+1946,Peace,The Nobel Peace Prize,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/pea/1946,507,John R. Mott,2
+1946,Physics,The Nobel Prize in Physics,1946-11-14,121524,2836450,https://api.nobelprize.org/2/nobelPrize/phy/1946,51,Percy W. Bridgman,1
+1946,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1946-10-31,121524,2836450,https://api.nobelprize.org/2/nobelPrize/med/1946,342,Hermann J. Muller,1
+1947,Chemistry,The Nobel Prize in Chemistry,1947-11-13,146115,3301577,https://api.nobelprize.org/2/nobelPrize/che/1947,207,Sir Robert Robinson,1
+1947,Literature,The Nobel Prize in Literature,1947-11-13,146115,3301577,https://api.nobelprize.org/2/nobelPrize/lit/1947,618,André Gide,1
+1947,Peace,The Nobel Peace Prize,1947-10-30,146115,3301577,https://api.nobelprize.org/2/nobelPrize/pea/1947,508,,1
+1947,Peace,The Nobel Peace Prize,1947-10-30,146115,3301577,https://api.nobelprize.org/2/nobelPrize/pea/1947,509,,2
+1947,Physics,The Nobel Prize in Physics,1947-11-13,146115,3301577,https://api.nobelprize.org/2/nobelPrize/phy/1947,52,Edward V. Appleton,1
+1947,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1947-10-23,146115,3301577,https://api.nobelprize.org/2/nobelPrize/med/1947,343,Carl Cori,1
+1947,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1947-10-23,146115,3301577,https://api.nobelprize.org/2/nobelPrize/med/1947,344,Gerty Cori,2
+1947,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1947-10-23,146115,3301577,https://api.nobelprize.org/2/nobelPrize/med/1947,345,Bernardo Houssay,3
+1948,Chemistry,The Nobel Prize in Chemistry,1948-11-04,159773,3462835,https://api.nobelprize.org/2/nobelPrize/che/1948,208,Arne Tiselius,1
+1948,Literature,The Nobel Prize in Literature,1948-11-04,159773,3462835,https://api.nobelprize.org/2/nobelPrize/lit/1948,619,T.S. Eliot,1
+1948,Physics,The Nobel Prize in Physics,1948-11-04,159773,3462835,https://api.nobelprize.org/2/nobelPrize/phy/1948,53,Patrick M.S. Blackett,1
+1948,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1948-10-28,159773,3462835,https://api.nobelprize.org/2/nobelPrize/med/1948,346,Paul Müller,1
+1949,Chemistry,The Nobel Prize in Chemistry,1949-11-03,156290,3319600,https://api.nobelprize.org/2/nobelPrize/che/1949,209,William F. Giauque,1
+1949,Literature,The Nobel Prize in Literature,1950-11-10,156290,3319600,https://api.nobelprize.org/2/nobelPrize/lit/1949,620,William Faulkner,1
+1949,Peace,The Nobel Peace Prize,1949-10-12,156290,3319600,https://api.nobelprize.org/2/nobelPrize/pea/1949,510,Lord Boyd Orr,1
+1949,Physics,The Nobel Prize in Physics,1949-11-03,156290,3319600,https://api.nobelprize.org/2/nobelPrize/phy/1949,54,Hideki Yukawa,1
+1949,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1949-10-27,156290,3319600,https://api.nobelprize.org/2/nobelPrize/med/1949,347,Walter Hess,1
+1949,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1949-10-27,156290,3319600,https://api.nobelprize.org/2/nobelPrize/med/1949,348,Egas Moniz,2
+1950,Chemistry,The Nobel Prize in Chemistry,1950-11-10,164304,3455264,https://api.nobelprize.org/2/nobelPrize/che/1950,210,Otto Diels,1
+1950,Chemistry,The Nobel Prize in Chemistry,1950-11-10,164304,3455264,https://api.nobelprize.org/2/nobelPrize/che/1950,211,Kurt Alder,2
+1950,Literature,The Nobel Prize in Literature,1950-11-10,164304,3455264,https://api.nobelprize.org/2/nobelPrize/lit/1950,621,Bertrand Russell,1
+1950,Peace,The Nobel Peace Prize,1950-09-22,164304,3455264,https://api.nobelprize.org/2/nobelPrize/pea/1950,511,Ralph Bunche,1
+1950,Physics,The Nobel Prize in Physics,1950-11-10,164304,3455264,https://api.nobelprize.org/2/nobelPrize/phy/1950,55,Cecil Powell,1
+1950,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1950-10-26,164304,3455264,https://api.nobelprize.org/2/nobelPrize/med/1950,349,Edward C. Kendall,1
+1950,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1950-10-26,164304,3455264,https://api.nobelprize.org/2/nobelPrize/med/1950,350,Tadeus Reichstein,2
+1950,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1950-10-26,164304,3455264,https://api.nobelprize.org/2/nobelPrize/med/1950,351,Philip S. Hench,3
+1951,Chemistry,The Nobel Prize in Chemistry,1951-11-15,167612,3042802,https://api.nobelprize.org/2/nobelPrize/che/1951,212,Edwin M. McMillan,1
+1951,Chemistry,The Nobel Prize in Chemistry,1951-11-15,167612,3042802,https://api.nobelprize.org/2/nobelPrize/che/1951,213,Glenn T. Seaborg,2
+1951,Literature,The Nobel Prize in Literature,1951-11-15,167612,3042802,https://api.nobelprize.org/2/nobelPrize/lit/1951,622,Pär Lagerkvist,1
+1951,Peace,The Nobel Peace Prize,1951-11-05,167612,3042802,https://api.nobelprize.org/2/nobelPrize/pea/1951,512,Léon Jouhaux,1
+1951,Physics,The Nobel Prize in Physics,1951-11-15,167612,3042802,https://api.nobelprize.org/2/nobelPrize/phy/1951,56,John Cockcroft,1
+1951,Physics,The Nobel Prize in Physics,1951-11-15,167612,3042802,https://api.nobelprize.org/2/nobelPrize/phy/1951,57,Ernest T.S. Walton,2
+1951,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1951-10-18,167612,3042802,https://api.nobelprize.org/2/nobelPrize/med/1951,352,Max Theiler,1
+1952,Chemistry,The Nobel Prize in Chemistry,1952-11-06,171135,2884847,https://api.nobelprize.org/2/nobelPrize/che/1952,214,Archer J.P. Martin,1
+1952,Chemistry,The Nobel Prize in Chemistry,1952-11-06,171135,2884847,https://api.nobelprize.org/2/nobelPrize/che/1952,215,Richard L.M. Synge,2
+1952,Literature,The Nobel Prize in Literature,1952-11-06,171135,2884847,https://api.nobelprize.org/2/nobelPrize/lit/1952,623,François Mauriac,1
+1952,Peace,The Nobel Peace Prize,1953-10-30,171135,2884847,https://api.nobelprize.org/2/nobelPrize/pea/1952,513,Albert Schweitzer,1
+1952,Physics,The Nobel Prize in Physics,1952-11-06,171135,2884847,https://api.nobelprize.org/2/nobelPrize/phy/1952,58,Felix Bloch,1
+1952,Physics,The Nobel Prize in Physics,1952-11-06,171135,2884847,https://api.nobelprize.org/2/nobelPrize/phy/1952,59,E. M. Purcell,2
+1952,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1952-10-23,171135,2884847,https://api.nobelprize.org/2/nobelPrize/med/1952,353,Selman A. Waksman,1
+1953,Chemistry,The Nobel Prize in Chemistry,1953-11-04,175293,2908768,https://api.nobelprize.org/2/nobelPrize/che/1953,216,Hermann Staudinger,1
+1953,Literature,The Nobel Prize in Literature,1953-10-15,175293,2908768,https://api.nobelprize.org/2/nobelPrize/lit/1953,624,Winston Churchill,1
+1953,Peace,The Nobel Peace Prize,1953-10-30,175293,2908768,https://api.nobelprize.org/2/nobelPrize/pea/1953,514,George C. Marshall,1
+1953,Physics,The Nobel Prize in Physics,1953-11-04,175293,2908768,https://api.nobelprize.org/2/nobelPrize/phy/1953,60,Frits Zernike,1
+1953,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1953-10-22,175293,2908768,https://api.nobelprize.org/2/nobelPrize/med/1953,354,Hans Krebs,1
+1953,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1953-10-22,175293,2908768,https://api.nobelprize.org/2/nobelPrize/med/1953,355,Fritz Lipmann,2
+1954,Chemistry,The Nobel Prize in Chemistry,1954-11-03,181647,2990839,https://api.nobelprize.org/2/nobelPrize/che/1954,217,Linus Pauling,1
+1954,Literature,The Nobel Prize in Literature,1954-10-28,181647,2990839,https://api.nobelprize.org/2/nobelPrize/lit/1954,625,Ernest Hemingway,1
+1954,Peace,The Nobel Peace Prize,1955-11-05,181647,2990839,https://api.nobelprize.org/2/nobelPrize/pea/1954,515,,1
+1954,Physics,The Nobel Prize in Physics,1954-11-03,181647,2990839,https://api.nobelprize.org/2/nobelPrize/phy/1954,61,Max Born,1
+1954,Physics,The Nobel Prize in Physics,1954-11-03,181647,2990839,https://api.nobelprize.org/2/nobelPrize/phy/1954,62,Walther Bothe,2
+1954,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1954-10-21,181647,2990839,https://api.nobelprize.org/2/nobelPrize/med/1954,356,John F. Enders,1
+1954,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1954-10-21,181647,2990839,https://api.nobelprize.org/2/nobelPrize/med/1954,357,Thomas H. Weller,2
+1954,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1954-10-21,181647,2990839,https://api.nobelprize.org/2/nobelPrize/med/1954,358,Frederick C. Robbins,3
+1955,Chemistry,The Nobel Prize in Chemistry,1955-11-02,190214,3037703,https://api.nobelprize.org/2/nobelPrize/che/1955,218,Vincent du Vigneaud,1
+1955,Literature,The Nobel Prize in Literature,1955-10-27,190214,3037703,https://api.nobelprize.org/2/nobelPrize/lit/1955,626,Halldór Laxness,1
+1955,Physics,The Nobel Prize in Physics,1955-11-02,190214,3037703,https://api.nobelprize.org/2/nobelPrize/phy/1955,63,Willis E. Lamb,1
+1955,Physics,The Nobel Prize in Physics,1955-11-02,190214,3037703,https://api.nobelprize.org/2/nobelPrize/phy/1955,64,Polykarp Kusch,2
+1955,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1955-10-20,190214,3037703,https://api.nobelprize.org/2/nobelPrize/med/1955,359,Hugo Theorell,1
+1956,Chemistry,The Nobel Prize in Chemistry,1956-11-01,200123,3057995,https://api.nobelprize.org/2/nobelPrize/che/1956,219,Sir Cyril Hinshelwood,1
+1956,Chemistry,The Nobel Prize in Chemistry,1956-11-01,200123,3057995,https://api.nobelprize.org/2/nobelPrize/che/1956,220,Nikolay Semenov,2
+1956,Literature,The Nobel Prize in Literature,1956-10-25,200123,3057995,https://api.nobelprize.org/2/nobelPrize/lit/1956,627,Juan Ramón Jiménez,1
+1956,Physics,The Nobel Prize in Physics,1956-11-01,200123,3057995,https://api.nobelprize.org/2/nobelPrize/phy/1956,65,William B. Shockley,1
+1956,Physics,The Nobel Prize in Physics,1956-11-01,200123,3057995,https://api.nobelprize.org/2/nobelPrize/phy/1956,66,John Bardeen,2
+1956,Physics,The Nobel Prize in Physics,1956-11-01,200123,3057995,https://api.nobelprize.org/2/nobelPrize/phy/1956,67,Walter H. Brattain,3
+1956,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1956-10-18,200123,3057995,https://api.nobelprize.org/2/nobelPrize/med/1956,360,André F. Cournand,1
+1956,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1956-10-18,200123,3057995,https://api.nobelprize.org/2/nobelPrize/med/1956,361,Werner Forssmann,2
+1956,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1956-10-18,200123,3057995,https://api.nobelprize.org/2/nobelPrize/med/1956,362,Dickinson W. Richards,3
+1957,Chemistry,The Nobel Prize in Chemistry,1957-10-31,208629,3056055,https://api.nobelprize.org/2/nobelPrize/che/1957,221,Lord Todd,1
+1957,Literature,The Nobel Prize in Literature,1957-10-17,208629,3056055,https://api.nobelprize.org/2/nobelPrize/lit/1957,628,Albert Camus,1
+1957,Peace,The Nobel Peace Prize,1957-10-03,208629,3056055,https://api.nobelprize.org/2/nobelPrize/pea/1957,516,Lester Bowles Pearson,1
+1957,Physics,The Nobel Prize in Physics,1957-10-31,208629,3056055,https://api.nobelprize.org/2/nobelPrize/phy/1957,68,Chen Ning Yang,1
+1957,Physics,The Nobel Prize in Physics,1957-10-31,208629,3056055,https://api.nobelprize.org/2/nobelPrize/phy/1957,69,Tsung-Dao Lee,2
+1957,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1957-10-24,208629,3056055,https://api.nobelprize.org/2/nobelPrize/med/1957,363,Daniel Bovet,1
+1958,Chemistry,The Nobel Prize in Chemistry,1958-10-28,214559,2998180,https://api.nobelprize.org/2/nobelPrize/che/1958,222,Frederick Sanger,1
+1958,Literature,The Nobel Prize in Literature,1958-10-28,214559,2998180,https://api.nobelprize.org/2/nobelPrize/lit/1958,629,Boris Pasternak,1
+1958,Peace,The Nobel Peace Prize,1958-11-10,214559,2998180,https://api.nobelprize.org/2/nobelPrize/pea/1958,517,Georges Pire,1
+1958,Physics,The Nobel Prize in Physics,1958-10-28,214559,2998180,https://api.nobelprize.org/2/nobelPrize/phy/1958,70,Pavel A. Cherenkov,1
+1958,Physics,The Nobel Prize in Physics,1958-10-28,214559,2998180,https://api.nobelprize.org/2/nobelPrize/phy/1958,721,Il´ja M. Frank,2
+1958,Physics,The Nobel Prize in Physics,1958-10-28,214559,2998180,https://api.nobelprize.org/2/nobelPrize/phy/1958,71,Igor Y. Tamm,3
+1958,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1958-10-30,214559,2998180,https://api.nobelprize.org/2/nobelPrize/med/1958,364,George Beadle,1
+1958,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1958-10-30,214559,2998180,https://api.nobelprize.org/2/nobelPrize/med/1958,365,Edward Tatum,2
+1958,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1958-10-30,214559,2998180,https://api.nobelprize.org/2/nobelPrize/med/1958,366,Joshua Lederberg,3
+1959,Chemistry,The Nobel Prize in Chemistry,1959-10-26,220678,3063530,https://api.nobelprize.org/2/nobelPrize/che/1959,223,Jaroslav Heyrovsky,1
+1959,Literature,The Nobel Prize in Literature,1959-10-22,220678,3063530,https://api.nobelprize.org/2/nobelPrize/lit/1959,630,Salvatore Quasimodo,1
+1959,Peace,The Nobel Peace Prize,1959-11-05,220678,3063530,https://api.nobelprize.org/2/nobelPrize/pea/1959,518,Philip Noel-Baker,1
+1959,Physics,The Nobel Prize in Physics,1959-10-26,220678,3063530,https://api.nobelprize.org/2/nobelPrize/phy/1959,72,Emilio Segrè,1
+1959,Physics,The Nobel Prize in Physics,1959-10-26,220678,3063530,https://api.nobelprize.org/2/nobelPrize/phy/1959,73,Owen Chamberlain,2
+1959,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1959-10-15,220678,3063530,https://api.nobelprize.org/2/nobelPrize/med/1959,367,Severo Ochoa,1
+1959,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1959-10-15,220678,3063530,https://api.nobelprize.org/2/nobelPrize/med/1959,368,Arthur Kornberg,2
+1960,Chemistry,The Nobel Prize in Chemistry,1960-11-03,225987,3018845,https://api.nobelprize.org/2/nobelPrize/che/1960,224,Willard F. Libby,1
+1960,Literature,The Nobel Prize in Literature,1960-10-26,225987,3018845,https://api.nobelprize.org/2/nobelPrize/lit/1960,631,Saint-John Perse,1
+1960,Peace,The Nobel Peace Prize,1961-10-23,225987,3018845,https://api.nobelprize.org/2/nobelPrize/pea/1960,519,Albert Lutuli,1
+1960,Physics,The Nobel Prize in Physics,1960-11-03,225987,3018845,https://api.nobelprize.org/2/nobelPrize/phy/1960,74,Donald A. Glaser,1
+1960,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1960-10-20,225987,3018845,https://api.nobelprize.org/2/nobelPrize/med/1960,369,Sir Frank Macfarlane Burnet,1
+1960,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1960-10-20,225987,3018845,https://api.nobelprize.org/2/nobelPrize/med/1960,370,Peter Medawar,2
+1961,Chemistry,The Nobel Prize in Chemistry,1961-11-02,250233,3260705,https://api.nobelprize.org/2/nobelPrize/che/1961,225,Melvin Calvin,1
+1961,Literature,The Nobel Prize in Literature,1961-10-26,250233,3260705,https://api.nobelprize.org/2/nobelPrize/lit/1961,633,Ivo Andrić,1
+1961,Peace,The Nobel Peace Prize,1961-10-23,250233,3260705,https://api.nobelprize.org/2/nobelPrize/pea/1961,520,Dag Hammarskjöld,1
+1961,Physics,The Nobel Prize in Physics,1961-11-02,250233,3260705,https://api.nobelprize.org/2/nobelPrize/phy/1961,75,Robert Hofstadter,1
+1961,Physics,The Nobel Prize in Physics,1961-11-02,250233,3260705,https://api.nobelprize.org/2/nobelPrize/phy/1961,76,Rudolf Mössbauer,2
+1961,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1961-10-19,250233,3260705,https://api.nobelprize.org/2/nobelPrize/med/1961,371,Georg von Békésy,1
+1962,Chemistry,The Nobel Prize in Chemistry,1962-11-01,257220,3213737,https://api.nobelprize.org/2/nobelPrize/che/1962,226,Max F. Perutz,1
+1962,Chemistry,The Nobel Prize in Chemistry,1962-11-01,257220,3213737,https://api.nobelprize.org/2/nobelPrize/che/1962,227,John C. Kendrew,2
+1962,Literature,The Nobel Prize in Literature,1962-10-05,257220,3213737,https://api.nobelprize.org/2/nobelPrize/lit/1962,634,John Steinbeck,1
+1962,Peace,The Nobel Peace Prize,1963-10-10,257220,3213737,https://api.nobelprize.org/2/nobelPrize/pea/1962,217,Linus Pauling,1
+1962,Physics,The Nobel Prize in Physics,1962-11-01,257220,3213737,https://api.nobelprize.org/2/nobelPrize/phy/1962,77,Lev Landau,1
+1962,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1962-10-18,257220,3213737,https://api.nobelprize.org/2/nobelPrize/med/1962,372,Francis Crick,1
+1962,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1962-10-18,257220,3213737,https://api.nobelprize.org/2/nobelPrize/med/1962,373,James Watson,2
+1962,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1962-10-18,257220,3213737,https://api.nobelprize.org/2/nobelPrize/med/1962,374,Maurice Wilkins,3
+1963,Chemistry,The Nobel Prize in Chemistry,1963-11-05,265000,3216343,https://api.nobelprize.org/2/nobelPrize/che/1963,228,Karl Ziegler,1
+1963,Chemistry,The Nobel Prize in Chemistry,1963-11-05,265000,3216343,https://api.nobelprize.org/2/nobelPrize/che/1963,229,Giulio Natta,2
+1963,Literature,The Nobel Prize in Literature,1963-10-24,265000,3216343,https://api.nobelprize.org/2/nobelPrize/lit/1963,635,Giorgos Seferis,1
+1963,Peace,The Nobel Peace Prize,1963-10-10,265000,3216343,https://api.nobelprize.org/2/nobelPrize/pea/1963,482,,1
+1963,Peace,The Nobel Peace Prize,1963-10-10,265000,3216343,https://api.nobelprize.org/2/nobelPrize/pea/1963,523,,2
+1963,Physics,The Nobel Prize in Physics,1963-11-05,265000,3216343,https://api.nobelprize.org/2/nobelPrize/phy/1963,78,Eugene Wigner,1
+1963,Physics,The Nobel Prize in Physics,1963-11-05,265000,3216343,https://api.nobelprize.org/2/nobelPrize/phy/1963,79,Maria Goeppert Mayer,2
+1963,Physics,The Nobel Prize in Physics,1963-11-05,265000,3216343,https://api.nobelprize.org/2/nobelPrize/phy/1963,80,J. Hans D. Jensen,3
+1963,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1963-10-17,265000,3216343,https://api.nobelprize.org/2/nobelPrize/med/1963,375,Sir John Eccles,1
+1963,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1963-10-17,265000,3216343,https://api.nobelprize.org/2/nobelPrize/med/1963,376,Alan Hodgkin,2
+1963,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1963-10-17,265000,3216343,https://api.nobelprize.org/2/nobelPrize/med/1963,377,Andrew Huxley,3
+1964,Chemistry,The Nobel Prize in Chemistry,1964-10-29,273000,3203602,https://api.nobelprize.org/2/nobelPrize/che/1964,230,Dorothy Crowfoot Hodgkin,1
+1964,Literature,The Nobel Prize in Literature,1964-10-22,273000,3203602,https://api.nobelprize.org/2/nobelPrize/lit/1964,637,Jean-Paul Sartre,1
+1964,Peace,The Nobel Peace Prize,1964-10-14,273000,3203602,https://api.nobelprize.org/2/nobelPrize/pea/1964,524,Martin Luther King Jr.,1
+1964,Physics,The Nobel Prize in Physics,1964-10-29,273000,3203602,https://api.nobelprize.org/2/nobelPrize/phy/1964,81,Charles H. Townes,1
+1964,Physics,The Nobel Prize in Physics,1964-10-29,273000,3203602,https://api.nobelprize.org/2/nobelPrize/phy/1964,82,Nicolay G. Basov,2
+1964,Physics,The Nobel Prize in Physics,1964-10-29,273000,3203602,https://api.nobelprize.org/2/nobelPrize/phy/1964,83,Aleksandr M. Prokhorov,3
+1964,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1964-10-15,273000,3203602,https://api.nobelprize.org/2/nobelPrize/med/1964,378,Konrad Bloch,1
+1964,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1964-10-15,273000,3203602,https://api.nobelprize.org/2/nobelPrize/med/1964,379,Feodor Lynen,2
+1965,Chemistry,The Nobel Prize in Chemistry,1965-10-21,282000,3152463,https://api.nobelprize.org/2/nobelPrize/che/1965,231,Robert B. Woodward,1
+1965,Literature,The Nobel Prize in Literature,1965-10-15,282000,3152463,https://api.nobelprize.org/2/nobelPrize/lit/1965,638,Mikhail Sholokhov,1
+1965,Peace,The Nobel Peace Prize,1965-10-25,282000,3152463,https://api.nobelprize.org/2/nobelPrize/pea/1965,525,,1
+1965,Physics,The Nobel Prize in Physics,1965-10-21,282000,3152463,https://api.nobelprize.org/2/nobelPrize/phy/1965,84,Sin-Itiro Tomonaga,1
+1965,Physics,The Nobel Prize in Physics,1965-10-21,282000,3152463,https://api.nobelprize.org/2/nobelPrize/phy/1965,85,Julian Schwinger,2
+1965,Physics,The Nobel Prize in Physics,1965-10-21,282000,3152463,https://api.nobelprize.org/2/nobelPrize/phy/1965,86,Richard P. Feynman,3
+1965,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1965-10-14,282000,3152463,https://api.nobelprize.org/2/nobelPrize/med/1965,380,François Jacob,1
+1965,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1965-10-14,282000,3152463,https://api.nobelprize.org/2/nobelPrize/med/1965,381,André Lwoff,2
+1965,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1965-10-14,282000,3152463,https://api.nobelprize.org/2/nobelPrize/med/1965,382,Jacques Monod,3
+1966,Chemistry,The Nobel Prize in Chemistry,1966-11-03,300000,3154455,https://api.nobelprize.org/2/nobelPrize/che/1966,232,Robert S. Mulliken,1
+1966,Literature,The Nobel Prize in Literature,1966-10-20,300000,3154455,https://api.nobelprize.org/2/nobelPrize/lit/1966,639,Shmuel Agnon,1
+1966,Literature,The Nobel Prize in Literature,1966-10-20,300000,3154455,https://api.nobelprize.org/2/nobelPrize/lit/1966,640,Nelly Sachs,2
+1966,Physics,The Nobel Prize in Physics,1966-11-03,300000,3154455,https://api.nobelprize.org/2/nobelPrize/phy/1966,87,Alfred Kastler,1
+1966,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1966-10-13,300000,3154455,https://api.nobelprize.org/2/nobelPrize/med/1966,383,Peyton Rous,1
+1966,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1966-10-13,300000,3154455,https://api.nobelprize.org/2/nobelPrize/med/1966,384,Charles B. Huggins,2
+1967,Chemistry,The Nobel Prize in Chemistry,1967-10-30,320000,3221232,https://api.nobelprize.org/2/nobelPrize/che/1967,233,Manfred Eigen,1
+1967,Chemistry,The Nobel Prize in Chemistry,1967-10-30,320000,3221232,https://api.nobelprize.org/2/nobelPrize/che/1967,234,Ronald G.W. Norrish,2
+1967,Chemistry,The Nobel Prize in Chemistry,1967-10-30,320000,3221232,https://api.nobelprize.org/2/nobelPrize/che/1967,235,George Porter,3
+1967,Literature,The Nobel Prize in Literature,1967-10-19,320000,3221232,https://api.nobelprize.org/2/nobelPrize/lit/1967,641,Miguel Angel Asturias,1
+1967,Physics,The Nobel Prize in Physics,1967-10-30,320000,3221232,https://api.nobelprize.org/2/nobelPrize/phy/1967,88,Hans Bethe,1
+1967,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1967-10-18,320000,3221232,https://api.nobelprize.org/2/nobelPrize/med/1967,385,Ragnar Granit,1
+1967,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1967-10-18,320000,3221232,https://api.nobelprize.org/2/nobelPrize/med/1967,386,Keffer Hartline,2
+1967,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1967-10-18,320000,3221232,https://api.nobelprize.org/2/nobelPrize/med/1967,387,George Wald,3
+1968,Chemistry,The Nobel Prize in Chemistry,1968-10-30,350000,3457674,https://api.nobelprize.org/2/nobelPrize/che/1968,236,Lars Onsager,1
+1968,Literature,The Nobel Prize in Literature,1968-10-17,350000,3457674,https://api.nobelprize.org/2/nobelPrize/lit/1968,642,Yasunari Kawabata,1
+1968,Peace,The Nobel Peace Prize,1968-10-09,350000,3457674,https://api.nobelprize.org/2/nobelPrize/pea/1968,526,René Cassin,1
+1968,Physics,The Nobel Prize in Physics,1968-10-30,350000,3457674,https://api.nobelprize.org/2/nobelPrize/phy/1968,89,Luis Alvarez,1
+1968,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1968-10-16,350000,3457674,https://api.nobelprize.org/2/nobelPrize/med/1968,388,Robert W. Holley,1
+1968,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1968-10-16,350000,3457674,https://api.nobelprize.org/2/nobelPrize/med/1968,389,H. Gobind Khorana,2
+1968,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1968-10-16,350000,3457674,https://api.nobelprize.org/2/nobelPrize/med/1968,390,Marshall W. Nirenberg,3
+1969,Chemistry,The Nobel Prize in Chemistry,1969-10-30,375000,3604072,https://api.nobelprize.org/2/nobelPrize/che/1969,237,Derek Barton,1
+1969,Chemistry,The Nobel Prize in Chemistry,1969-10-30,375000,3604072,https://api.nobelprize.org/2/nobelPrize/che/1969,238,Odd Hassel,2
+1969,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1969-10-27,375000,3604072,https://api.nobelprize.org/2/nobelPrize/eco/1969,677,Ragnar Frisch,1
+1969,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1969-10-27,375000,3604072,https://api.nobelprize.org/2/nobelPrize/eco/1969,678,Jan Tinbergen,2
+1969,Literature,The Nobel Prize in Literature,1969-10-23,375000,3604072,https://api.nobelprize.org/2/nobelPrize/lit/1969,643,Samuel Beckett,1
+1969,Peace,The Nobel Peace Prize,1969-10-20,375000,3604072,https://api.nobelprize.org/2/nobelPrize/pea/1969,527,,1
+1969,Physics,The Nobel Prize in Physics,1969-10-30,375000,3604072,https://api.nobelprize.org/2/nobelPrize/phy/1969,90,Murray Gell-Mann,1
+1969,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1969-10-16,375000,3604072,https://api.nobelprize.org/2/nobelPrize/med/1969,391,Max Delbrück,1
+1969,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1969-10-16,375000,3604072,https://api.nobelprize.org/2/nobelPrize/med/1969,392,Alfred D. Hershey,2
+1969,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1969-10-16,375000,3604072,https://api.nobelprize.org/2/nobelPrize/med/1969,393,Salvador E. Luria,3
+1970,Chemistry,The Nobel Prize in Chemistry,1970-10-27,400000,3600000,https://api.nobelprize.org/2/nobelPrize/che/1970,239,Luis Leloir,1
+1970,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1970-10-26,400000,3600000,https://api.nobelprize.org/2/nobelPrize/eco/1970,679,Paul A. Samuelson,1
+1970,Literature,The Nobel Prize in Literature,1970-10-08,400000,3600000,https://api.nobelprize.org/2/nobelPrize/lit/1970,644,Aleksandr Solzhenitsyn,1
+1970,Peace,The Nobel Peace Prize,1970-10-21,400000,3600000,https://api.nobelprize.org/2/nobelPrize/pea/1970,528,Norman Borlaug,1
+1970,Physics,The Nobel Prize in Physics,1970-10-27,400000,3600000,https://api.nobelprize.org/2/nobelPrize/phy/1970,91,Hannes Alfvén,1
+1970,Physics,The Nobel Prize in Physics,1970-10-27,400000,3600000,https://api.nobelprize.org/2/nobelPrize/phy/1970,92,Louis Néel,2
+1970,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1970-10-15,400000,3600000,https://api.nobelprize.org/2/nobelPrize/med/1970,394,Sir Bernard Katz,1
+1970,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1970-10-15,400000,3600000,https://api.nobelprize.org/2/nobelPrize/med/1970,395,Ulf von Euler,2
+1970,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1970-10-15,400000,3600000,https://api.nobelprize.org/2/nobelPrize/med/1970,396,Julius Axelrod,3
+1971,Chemistry,The Nobel Prize in Chemistry,1971-11-02,450000,3762992,https://api.nobelprize.org/2/nobelPrize/che/1971,240,Gerhard Herzberg,1
+1971,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1971-10-15,450000,3762992,https://api.nobelprize.org/2/nobelPrize/eco/1971,680,Simon Kuznets,1
+1971,Literature,The Nobel Prize in Literature,1971-10-21,450000,3762992,https://api.nobelprize.org/2/nobelPrize/lit/1971,645,Pablo Neruda,1
+1971,Peace,The Nobel Peace Prize,1971-10-21,450000,3762992,https://api.nobelprize.org/2/nobelPrize/pea/1971,529,Willy Brandt,1
+1971,Physics,The Nobel Prize in Physics,1971-11-02,450000,3762992,https://api.nobelprize.org/2/nobelPrize/phy/1971,93,Dennis Gabor,1
+1971,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1971-10-14,450000,3762992,https://api.nobelprize.org/2/nobelPrize/med/1971,397,"Earl W. Sutherland, Jr.",1
+1972,Chemistry,The Nobel Prize in Chemistry,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/che/1972,241,Christian Anfinsen,1
+1972,Chemistry,The Nobel Prize in Chemistry,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/che/1972,242,Stanford Moore,2
+1972,Chemistry,The Nobel Prize in Chemistry,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/che/1972,243,William H. Stein,3
+1972,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1972-10-25,480000,3790037,https://api.nobelprize.org/2/nobelPrize/eco/1972,681,John R. Hicks,1
+1972,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1972-10-25,480000,3790037,https://api.nobelprize.org/2/nobelPrize/eco/1972,682,Kenneth J. Arrow,2
+1972,Literature,The Nobel Prize in Literature,1972-10-19,480000,3790037,https://api.nobelprize.org/2/nobelPrize/lit/1972,647,Heinrich Böll,1
+1972,Physics,The Nobel Prize in Physics,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/phy/1972,66,John Bardeen,1
+1972,Physics,The Nobel Prize in Physics,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/phy/1972,95,Leon N. Cooper,2
+1972,Physics,The Nobel Prize in Physics,1972-10-20,480000,3790037,https://api.nobelprize.org/2/nobelPrize/phy/1972,96,Robert Schrieffer,3
+1972,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1972-10-12,480000,3790037,https://api.nobelprize.org/2/nobelPrize/med/1972,398,Gerald M. Edelman,1
+1972,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1972-10-12,480000,3790037,https://api.nobelprize.org/2/nobelPrize/med/1972,399,Rodney R. Porter,2
+1973,Chemistry,The Nobel Prize in Chemistry,1973-10-23,510000,3774355,https://api.nobelprize.org/2/nobelPrize/che/1973,244,Ernst Otto Fischer,1
+1973,Chemistry,The Nobel Prize in Chemistry,1973-10-23,510000,3774355,https://api.nobelprize.org/2/nobelPrize/che/1973,245,Geoffrey Wilkinson,2
+1973,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1973-10-18,510000,3774355,https://api.nobelprize.org/2/nobelPrize/eco/1973,683,Wassily Leontief,1
+1973,Literature,The Nobel Prize in Literature,1973-10-25,510000,3774355,https://api.nobelprize.org/2/nobelPrize/lit/1973,648,Patrick White,1
+1973,Peace,The Nobel Peace Prize,1973-10-17,510000,3774355,https://api.nobelprize.org/2/nobelPrize/pea/1973,530,Henry Kissinger,1
+1973,Peace,The Nobel Peace Prize,1973-10-17,510000,3774355,https://api.nobelprize.org/2/nobelPrize/pea/1973,531,Le Duc Tho ,2
+1973,Physics,The Nobel Prize in Physics,1973-10-23,510000,3774355,https://api.nobelprize.org/2/nobelPrize/phy/1973,97,Leo Esaki,1
+1973,Physics,The Nobel Prize in Physics,1973-10-23,510000,3774355,https://api.nobelprize.org/2/nobelPrize/phy/1973,98,Ivar Giaever,2
+1973,Physics,The Nobel Prize in Physics,1973-10-23,510000,3774355,https://api.nobelprize.org/2/nobelPrize/phy/1973,99,Brian D. Josephson,3
+1973,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1973-10-11,510000,3774355,https://api.nobelprize.org/2/nobelPrize/med/1973,400,Karl von Frisch,1
+1973,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1973-10-11,510000,3774355,https://api.nobelprize.org/2/nobelPrize/med/1973,401,Konrad Lorenz,2
+1973,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1973-10-11,510000,3774355,https://api.nobelprize.org/2/nobelPrize/med/1973,402,Nikolaas Tinbergen,3
+1974,Chemistry,The Nobel Prize in Chemistry,1974-10-15,550000,3696835,https://api.nobelprize.org/2/nobelPrize/che/1974,246,Paul J. Flory,1
+1974,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1974-10-09,550000,3696835,https://api.nobelprize.org/2/nobelPrize/eco/1974,684,Gunnar Myrdal,1
+1974,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1974-10-09,550000,3696835,https://api.nobelprize.org/2/nobelPrize/eco/1974,685,Friedrich von Hayek,2
+1974,Literature,The Nobel Prize in Literature,1974-10-03,550000,3696835,https://api.nobelprize.org/2/nobelPrize/lit/1974,649,Eyvind Johnson,1
+1974,Literature,The Nobel Prize in Literature,1974-10-03,550000,3696835,https://api.nobelprize.org/2/nobelPrize/lit/1974,650,Harry Martinson,2
+1974,Peace,The Nobel Peace Prize,1974-10-09,550000,3696835,https://api.nobelprize.org/2/nobelPrize/pea/1974,532,Seán MacBride,1
+1974,Peace,The Nobel Peace Prize,1974-10-09,550000,3696835,https://api.nobelprize.org/2/nobelPrize/pea/1974,533,Eisaku Satō,2
+1974,Physics,The Nobel Prize in Physics,1974-10-15,550000,3696835,https://api.nobelprize.org/2/nobelPrize/phy/1974,100,Martin Ryle,1
+1974,Physics,The Nobel Prize in Physics,1974-10-15,550000,3696835,https://api.nobelprize.org/2/nobelPrize/phy/1974,101,Antony Hewish,2
+1974,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1974-10-10,550000,3696835,https://api.nobelprize.org/2/nobelPrize/med/1974,403,Albert Claude,1
+1974,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1974-10-10,550000,3696835,https://api.nobelprize.org/2/nobelPrize/med/1974,404,Christian de Duve,2
+1974,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1974-10-10,550000,3696835,https://api.nobelprize.org/2/nobelPrize/med/1974,405,George E. Palade,3
+1975,Chemistry,The Nobel Prize in Chemistry,1975-10-17,630000,3856254,https://api.nobelprize.org/2/nobelPrize/che/1975,247,John Cornforth,1
+1975,Chemistry,The Nobel Prize in Chemistry,1975-10-17,630000,3856254,https://api.nobelprize.org/2/nobelPrize/che/1975,248,Vladimir Prelog,2
+1975,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1975-10-14,630000,3856254,https://api.nobelprize.org/2/nobelPrize/eco/1975,686,Leonid Vitaliyevich Kantorovich,1
+1975,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1975-10-14,630000,3856254,https://api.nobelprize.org/2/nobelPrize/eco/1975,687,Tjalling C. Koopmans,2
+1975,Literature,The Nobel Prize in Literature,1975-10-23,630000,3856254,https://api.nobelprize.org/2/nobelPrize/lit/1975,651,Eugenio Montale,1
+1975,Peace,The Nobel Peace Prize,1975-10-09,630000,3856254,https://api.nobelprize.org/2/nobelPrize/pea/1975,534,Andrei Sakharov,1
+1975,Physics,The Nobel Prize in Physics,1975-10-17,630000,3856254,https://api.nobelprize.org/2/nobelPrize/phy/1975,102,Aage N. Bohr,1
+1975,Physics,The Nobel Prize in Physics,1975-10-17,630000,3856254,https://api.nobelprize.org/2/nobelPrize/phy/1975,103,Ben R. Mottelson,2
+1975,Physics,The Nobel Prize in Physics,1975-10-17,630000,3856254,https://api.nobelprize.org/2/nobelPrize/phy/1975,104,James Rainwater,3
+1975,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1975-10-16,630000,3856254,https://api.nobelprize.org/2/nobelPrize/med/1975,406,David Baltimore,1
+1975,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1975-10-16,630000,3856254,https://api.nobelprize.org/2/nobelPrize/med/1975,407,Renato Dulbecco,2
+1975,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1975-10-16,630000,3856254,https://api.nobelprize.org/2/nobelPrize/med/1975,408,Howard M. Temin,3
+1976,Chemistry,The Nobel Prize in Chemistry,1976-10-18,681000,3786503,https://api.nobelprize.org/2/nobelPrize/che/1976,249,William Lipscomb,1
+1976,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1976-10-14,681000,3786503,https://api.nobelprize.org/2/nobelPrize/eco/1976,688,Milton Friedman,1
+1976,Literature,The Nobel Prize in Literature,1976-10-21,681000,3786503,https://api.nobelprize.org/2/nobelPrize/lit/1976,652,Saul Bellow,1
+1976,Peace,The Nobel Peace Prize,1977-10-10,681000,3786503,https://api.nobelprize.org/2/nobelPrize/pea/1976,535,Betty Williams,1
+1976,Peace,The Nobel Peace Prize,1977-10-10,681000,3786503,https://api.nobelprize.org/2/nobelPrize/pea/1976,536,Mairead Corrigan,2
+1976,Physics,The Nobel Prize in Physics,1976-10-18,681000,3786503,https://api.nobelprize.org/2/nobelPrize/phy/1976,105,Burton Richter,1
+1976,Physics,The Nobel Prize in Physics,1976-10-18,681000,3786503,https://api.nobelprize.org/2/nobelPrize/phy/1976,106,Samuel C.C. Ting,2
+1976,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1976-10-14,681000,3786503,https://api.nobelprize.org/2/nobelPrize/med/1976,409,Baruch S. Blumberg,1
+1976,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1976-10-14,681000,3786503,https://api.nobelprize.org/2/nobelPrize/med/1976,410,D. Carleton Gajdusek,2
+1977,Chemistry,The Nobel Prize in Chemistry,1977-10-11,700000,3490141,https://api.nobelprize.org/2/nobelPrize/che/1977,250,Ilya Prigogine,1
+1977,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1977-10-14,700000,3490141,https://api.nobelprize.org/2/nobelPrize/eco/1977,689,Bertil Ohlin,1
+1977,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1977-10-14,700000,3490141,https://api.nobelprize.org/2/nobelPrize/eco/1977,690,James E. Meade,2
+1977,Literature,The Nobel Prize in Literature,1977-10-06,700000,3490141,https://api.nobelprize.org/2/nobelPrize/lit/1977,653,Vicente Aleixandre,1
+1977,Peace,The Nobel Peace Prize,1977-10-10,700000,3490141,https://api.nobelprize.org/2/nobelPrize/pea/1977,537,,1
+1977,Physics,The Nobel Prize in Physics,1977-10-11,700000,3490141,https://api.nobelprize.org/2/nobelPrize/phy/1977,107,Philip W. Anderson,1
+1977,Physics,The Nobel Prize in Physics,1977-10-11,700000,3490141,https://api.nobelprize.org/2/nobelPrize/phy/1977,108,Sir Nevill F. Mott,2
+1977,Physics,The Nobel Prize in Physics,1977-10-11,700000,3490141,https://api.nobelprize.org/2/nobelPrize/phy/1977,109,John H. Van Vleck,3
+1977,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1977-10-13,700000,3490141,https://api.nobelprize.org/2/nobelPrize/med/1977,411,Roger Guillemin,1
+1977,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1977-10-13,700000,3490141,https://api.nobelprize.org/2/nobelPrize/med/1977,412,Andrew V. Schally,2
+1977,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1977-10-13,700000,3490141,https://api.nobelprize.org/2/nobelPrize/med/1977,413,Rosalyn Yalow,3
+1978,Chemistry,The Nobel Prize in Chemistry,1978-10-17,725000,3283369,https://api.nobelprize.org/2/nobelPrize/che/1978,251,Peter Mitchell,1
+1978,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1978-10-16,725000,3283369,https://api.nobelprize.org/2/nobelPrize/eco/1978,691,Herbert Simon,1
+1978,Literature,The Nobel Prize in Literature,1978-10-05,725000,3283369,https://api.nobelprize.org/2/nobelPrize/lit/1978,654,Isaac Bashevis Singer,1
+1978,Peace,The Nobel Peace Prize,1978-10-27,725000,3283369,https://api.nobelprize.org/2/nobelPrize/pea/1978,538,Anwar al-Sadat,1
+1978,Peace,The Nobel Peace Prize,1978-10-27,725000,3283369,https://api.nobelprize.org/2/nobelPrize/pea/1978,539,Menachem Begin,2
+1978,Physics,The Nobel Prize in Physics,1978-10-17,725000,3283369,https://api.nobelprize.org/2/nobelPrize/phy/1978,110,Pyotr Kapitsa,1
+1978,Physics,The Nobel Prize in Physics,1978-10-17,725000,3283369,https://api.nobelprize.org/2/nobelPrize/phy/1978,111,Arno Penzias,2
+1978,Physics,The Nobel Prize in Physics,1978-10-17,725000,3283369,https://api.nobelprize.org/2/nobelPrize/phy/1978,112,Robert Woodrow Wilson,3
+1978,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1978-10-12,725000,3283369,https://api.nobelprize.org/2/nobelPrize/med/1978,414,Werner Arber,1
+1978,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1978-10-12,725000,3283369,https://api.nobelprize.org/2/nobelPrize/med/1978,415,Daniel Nathans,2
+1978,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1978-10-12,725000,3283369,https://api.nobelprize.org/2/nobelPrize/med/1978,416,Hamilton O. Smith,3
+1979,Chemistry,The Nobel Prize in Chemistry,1979-10-15,800000,3384861,https://api.nobelprize.org/2/nobelPrize/che/1979,252,Herbert C. Brown,1
+1979,Chemistry,The Nobel Prize in Chemistry,1979-10-15,800000,3384861,https://api.nobelprize.org/2/nobelPrize/che/1979,253,Georg Wittig,2
+1979,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1979-10-16,800000,3384861,https://api.nobelprize.org/2/nobelPrize/eco/1979,692,Theodore W. Schultz,1
+1979,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1979-10-16,800000,3384861,https://api.nobelprize.org/2/nobelPrize/eco/1979,693,Sir Arthur Lewis,2
+1979,Literature,The Nobel Prize in Literature,1979-10-18,800000,3384861,https://api.nobelprize.org/2/nobelPrize/lit/1979,655,Odysseus Elytis,1
+1979,Peace,The Nobel Peace Prize,1979-10-27,800000,3384861,https://api.nobelprize.org/2/nobelPrize/pea/1979,540,Mother Teresa,1
+1979,Physics,The Nobel Prize in Physics,1979-10-15,800000,3384861,https://api.nobelprize.org/2/nobelPrize/phy/1979,113,Sheldon Glashow,1
+1979,Physics,The Nobel Prize in Physics,1979-10-15,800000,3384861,https://api.nobelprize.org/2/nobelPrize/phy/1979,114,Abdus Salam,2
+1979,Physics,The Nobel Prize in Physics,1979-10-15,800000,3384861,https://api.nobelprize.org/2/nobelPrize/phy/1979,115,Steven Weinberg,3
+1979,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1979-10-11,800000,3384861,https://api.nobelprize.org/2/nobelPrize/med/1979,417,Allan M. Cormack,1
+1979,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1979-10-11,800000,3384861,https://api.nobelprize.org/2/nobelPrize/med/1979,418,Godfrey N. Hounsfield,2
+1980,Chemistry,The Nobel Prize in Chemistry,1980-10-14,880000,3273415,https://api.nobelprize.org/2/nobelPrize/che/1980,254,Paul Berg,1
+1980,Chemistry,The Nobel Prize in Chemistry,1980-10-14,880000,3273415,https://api.nobelprize.org/2/nobelPrize/che/1980,255,Walter Gilbert,2
+1980,Chemistry,The Nobel Prize in Chemistry,1980-10-14,880000,3273415,https://api.nobelprize.org/2/nobelPrize/che/1980,222,Frederick Sanger,3
+1980,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1980-10-15,880000,3273415,https://api.nobelprize.org/2/nobelPrize/eco/1980,694,Lawrence R. Klein,1
+1980,Literature,The Nobel Prize in Literature,1980-10-09,880000,3273415,https://api.nobelprize.org/2/nobelPrize/lit/1980,657,Czesław Miłosz,1
+1980,Peace,The Nobel Peace Prize,1980-10-27,880000,3273415,https://api.nobelprize.org/2/nobelPrize/pea/1980,541,Adolfo Pérez Esquivel,1
+1980,Physics,The Nobel Prize in Physics,1980-10-14,880000,3273415,https://api.nobelprize.org/2/nobelPrize/phy/1980,116,James Cronin,1
+1980,Physics,The Nobel Prize in Physics,1980-10-14,880000,3273415,https://api.nobelprize.org/2/nobelPrize/phy/1980,117,Val Fitch,2
+1980,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1980-10-10,880000,3273415,https://api.nobelprize.org/2/nobelPrize/med/1980,419,Baruj Benacerraf,1
+1980,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1980-10-10,880000,3273415,https://api.nobelprize.org/2/nobelPrize/med/1980,420,Jean Dausset,2
+1980,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1980-10-10,880000,3273415,https://api.nobelprize.org/2/nobelPrize/med/1980,421,George D. Snell,3
+1981,Chemistry,The Nobel Prize in Chemistry,1981-10-19,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/che/1981,257,Kenichi Fukui,1
+1981,Chemistry,The Nobel Prize in Chemistry,1981-10-19,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/che/1981,258,Roald Hoffmann,2
+1981,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1981-10-13,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/eco/1981,695,James Tobin,1
+1981,Literature,The Nobel Prize in Literature,1981-10-15,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/lit/1981,658,Elias Canetti,1
+1981,Peace,The Nobel Peace Prize,1981-10-14,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/pea/1981,515,,1
+1981,Physics,The Nobel Prize in Physics,1981-10-19,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/phy/1981,118,Nicolaas Bloembergen,1
+1981,Physics,The Nobel Prize in Physics,1981-10-19,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/phy/1981,119,Arthur L. Schawlow,2
+1981,Physics,The Nobel Prize in Physics,1981-10-19,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/phy/1981,120,Kai M. Siegbahn,3
+1981,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1981-10-09,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/med/1981,422,Roger W. Sperry,1
+1981,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1981-10-09,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/med/1981,423,David H. Hubel,2
+1981,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1981-10-09,1000000,3318750,https://api.nobelprize.org/2/nobelPrize/med/1981,424,Torsten N. Wiesel,3
+1982,Chemistry,The Nobel Prize in Chemistry,1982-10-18,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/che/1982,259,Aaron Klug,1
+1982,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1982-10-20,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/eco/1982,696,George J. Stigler,1
+1982,Literature,The Nobel Prize in Literature,1982-10-21,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/lit/1982,659,Gabriel García Márquez,1
+1982,Peace,The Nobel Peace Prize,1982-10-13,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/pea/1982,543,Alva Myrdal,1
+1982,Peace,The Nobel Peace Prize,1982-10-13,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/pea/1982,544,Alfonso García Robles,2
+1982,Physics,The Nobel Prize in Physics,1982-10-18,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/phy/1982,121,Kenneth G. Wilson,1
+1982,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1982-10-11,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/med/1982,425,Sune K. Bergström,1
+1982,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1982-10-11,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/med/1982,426,Bengt I. Samuelsson,2
+1982,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1982-10-11,1150000,3514532,https://api.nobelprize.org/2/nobelPrize/med/1982,427,John R. Vane,3
+1983,Chemistry,The Nobel Prize in Chemistry,1983-10-19,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/che/1983,260,Henry Taube,1
+1983,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1983-10-17,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/eco/1983,697,Gerard Debreu,1
+1983,Literature,The Nobel Prize in Literature,1983-10-27,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/lit/1983,660,William Golding,1
+1983,Peace,The Nobel Peace Prize,1983-10-05,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/pea/1983,545,Lech Wałęsa,1
+1983,Physics,The Nobel Prize in Physics,1983-10-19,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/phy/1983,122,Subrahmanyan Chandrasekhar,1
+1983,Physics,The Nobel Prize in Physics,1983-10-19,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/phy/1983,123,William A. Fowler,2
+1983,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1983-10-10,1500000,4208719,https://api.nobelprize.org/2/nobelPrize/med/1983,428,Barbara McClintock,1
+1984,Chemistry,The Nobel Prize in Chemistry,1984-10-17,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/che/1984,261,Bruce Merrifield,1
+1984,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1984-10-18,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/eco/1984,698,Richard Stone,1
+1984,Literature,The Nobel Prize in Literature,1984-11-27,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/lit/1984,661,Jaroslav Seifert,1
+1984,Peace,The Nobel Peace Prize,1984-10-05,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/pea/1984,546,Desmond Tutu,1
+1984,Physics,The Nobel Prize in Physics,1984-10-17,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/phy/1984,124,Carlo Rubbia,1
+1984,Physics,The Nobel Prize in Physics,1984-10-17,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/phy/1984,125,Simon van der Meer,2
+1984,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1984-10-15,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/med/1984,429,Niels K. Jerne,1
+1984,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1984-10-15,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/med/1984,430,Georges J.F. Köhler,2
+1984,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1984-10-15,1650000,4284352,https://api.nobelprize.org/2/nobelPrize/med/1984,431,César Milstein,3
+1985,Chemistry,The Nobel Prize in Chemistry,1985-10-16,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/che/1985,262,Herbert A. Hauptman,1
+1985,Chemistry,The Nobel Prize in Chemistry,1985-10-16,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/che/1985,263,Jerome Karle,2
+1985,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1985-10-15,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/eco/1985,699,Franco Modigliani,1
+1985,Literature,The Nobel Prize in Literature,1985-11-27,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/lit/1985,662,Claude Simon,1
+1985,Peace,The Nobel Peace Prize,1985-10-05,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/pea/1985,547,,1
+1985,Physics,The Nobel Prize in Physics,1985-10-16,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/phy/1985,126,Klaus von Klitzing,1
+1985,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1985-10-14,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/med/1985,432,Michael S. Brown,1
+1985,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1985-10-14,1800000,4354442,https://api.nobelprize.org/2/nobelPrize/med/1985,433,Joseph L. Goldstein,2
+1986,Chemistry,The Nobel Prize in Chemistry,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/che/1986,264,Dudley R. Herschbach,1
+1986,Chemistry,The Nobel Prize in Chemistry,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/che/1986,265,Yuan T. Lee,2
+1986,Chemistry,The Nobel Prize in Chemistry,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/che/1986,266,John C. Polanyi,3
+1986,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1986-10-16,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/eco/1986,700,James M. Buchanan Jr.,1
+1986,Literature,The Nobel Prize in Literature,1986-10-16,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/lit/1986,663,Wole Soyinka,1
+1986,Peace,The Nobel Peace Prize,1986-10-14,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/pea/1986,548,Elie Wiesel,1
+1986,Physics,The Nobel Prize in Physics,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/phy/1986,127,Ernst Ruska,1
+1986,Physics,The Nobel Prize in Physics,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/phy/1986,128,Gerd Binnig,2
+1986,Physics,The Nobel Prize in Physics,1986-10-15,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/phy/1986,129,Heinrich Rohrer,3
+1986,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1986-10-13,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/med/1986,434,Stanley Cohen,1
+1986,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1986-10-13,2000000,4642623,https://api.nobelprize.org/2/nobelPrize/med/1986,435,Rita Levi-Montalcini,2
+1987,Chemistry,The Nobel Prize in Chemistry,1987-10-14,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/che/1987,267,Donald J. Cram,1
+1987,Chemistry,The Nobel Prize in Chemistry,1987-10-14,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/che/1987,268,Jean-Marie Lehn,2
+1987,Chemistry,The Nobel Prize in Chemistry,1987-10-14,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/che/1987,269,Charles J. Pedersen,3
+1987,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1987-10-21,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/eco/1987,701,Robert M. Solow,1
+1987,Literature,The Nobel Prize in Literature,1987-10-22,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/lit/1987,664,Joseph Brodsky,1
+1987,Peace,The Nobel Peace Prize,1987-10-13,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/pea/1987,549,Oscar Arias Sánchez,1
+1987,Physics,The Nobel Prize in Physics,1987-10-14,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/phy/1987,130,J. Georg Bednorz,1
+1987,Physics,The Nobel Prize in Physics,1987-10-14,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/phy/1987,131,K. Alex Müller,2
+1987,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1987-10-12,2175000,4842453,https://api.nobelprize.org/2/nobelPrize/med/1987,436,Susumu Tonegawa,1
+1988,Chemistry,The Nobel Prize in Chemistry,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/che/1988,270,Johann Deisenhofer,1
+1988,Chemistry,The Nobel Prize in Chemistry,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/che/1988,271,Robert Huber,2
+1988,Chemistry,The Nobel Prize in Chemistry,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/che/1988,272,Hartmut Michel,3
+1988,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1988-10-18,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/eco/1988,702,Maurice Allais,1
+1988,Literature,The Nobel Prize in Literature,1988-10-13,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/lit/1988,665,Naguib Mahfouz,1
+1988,Peace,The Nobel Peace Prize,1988-09-29,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/pea/1988,550,,1
+1988,Physics,The Nobel Prize in Physics,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/phy/1988,132,Leon M. Lederman,1
+1988,Physics,The Nobel Prize in Physics,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/phy/1988,133,Melvin Schwartz,2
+1988,Physics,The Nobel Prize in Physics,1988-10-19,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/phy/1988,134,Jack Steinberger,3
+1988,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1988-10-17,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/med/1988,437,Sir James W. Black,1
+1988,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1988-10-17,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/med/1988,438,Gertrude B. Elion,2
+1988,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1988-10-17,2500000,5262636,https://api.nobelprize.org/2/nobelPrize/med/1988,439,George H. Hitchings,3
+1989,Chemistry,The Nobel Prize in Chemistry,1989-10-12,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/che/1989,273,Sidney Altman,1
+1989,Chemistry,The Nobel Prize in Chemistry,1989-10-12,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/che/1989,274,Thomas R. Cech,2
+1989,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1989-10-11,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/eco/1989,703,Trygve Haavelmo,1
+1989,Literature,The Nobel Prize in Literature,1989-10-09,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/lit/1989,666,Camilo José Cela,1
+1989,Peace,The Nobel Peace Prize,1989-10-05,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/pea/1989,551,The 14th Dalai Lama,1
+1989,Physics,The Nobel Prize in Physics,1989-10-12,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/phy/1989,135,Norman F. Ramsey,1
+1989,Physics,The Nobel Prize in Physics,1989-10-12,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/phy/1989,136,Hans G. Dehmelt,2
+1989,Physics,The Nobel Prize in Physics,1989-10-12,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/phy/1989,137,Wolfgang Paul,3
+1989,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1989-10-09,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/med/1989,440,J. Michael Bishop,1
+1989,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1989-10-09,3000000,5938490,https://api.nobelprize.org/2/nobelPrize/med/1989,441,Harold E. Varmus,2
+1990,Chemistry,The Nobel Prize in Chemistry,1990-10-17,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/che/1990,275,Elias James Corey,1
+1990,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1990-10-16,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/eco/1990,704,Harry M. Markowitz,1
+1990,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1990-10-16,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/eco/1990,705,Merton H. Miller,2
+1990,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1990-10-16,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/eco/1990,706,William F. Sharpe,3
+1990,Literature,The Nobel Prize in Literature,1990-10-11,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/lit/1990,667,Octavio Paz,1
+1990,Peace,The Nobel Peace Prize,1990-10-15,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/pea/1990,552,Mikhail Gorbachev,1
+1990,Physics,The Nobel Prize in Physics,1990-10-17,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/phy/1990,138,Jerome I. Friedman,1
+1990,Physics,The Nobel Prize in Physics,1990-10-17,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/phy/1990,139,Henry W. Kendall,2
+1990,Physics,The Nobel Prize in Physics,1990-10-17,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/phy/1990,140,Richard E. Taylor,3
+1990,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1990-10-08,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/med/1990,442,Joseph E. Murray,1
+1990,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1990-10-08,4000000,7169620,https://api.nobelprize.org/2/nobelPrize/med/1990,443,E. Donnall Thomas,2
+1991,Chemistry,The Nobel Prize in Chemistry,1991-10-16,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/che/1991,276,Richard R. Ernst,1
+1991,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1991-10-15,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/eco/1991,707,Ronald H. Coase,1
+1991,Literature,The Nobel Prize in Literature,1991-10-03,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/lit/1991,668,Nadine Gordimer,1
+1991,Peace,The Nobel Peace Prize,1991-10-14,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/pea/1991,553,Aung San Suu Kyi,1
+1991,Physics,The Nobel Prize in Physics,1991-10-16,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/phy/1991,141,Pierre-Gilles de Gennes,1
+1991,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1991-10-07,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/med/1991,444,Erwin Neher,1
+1991,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1991-10-07,6000000,9825752,https://api.nobelprize.org/2/nobelPrize/med/1991,445,Bert Sakmann,2
+1992,Chemistry,The Nobel Prize in Chemistry,1992-10-14,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/che/1992,277,Rudolph A. Marcus,1
+1992,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1992-10-13,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/eco/1992,708,Gary Becker,1
+1992,Literature,The Nobel Prize in Literature,1992-10-08,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/lit/1992,669,Derek Walcott,1
+1992,Peace,The Nobel Peace Prize,1992-10-16,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/pea/1992,554,Rigoberta Menchú Tum,1
+1992,Physics,The Nobel Prize in Physics,1992-10-14,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/phy/1992,142,Georges Charpak,1
+1992,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1992-10-12,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/med/1992,446,Edmond H. Fischer,1
+1992,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1992-10-12,6500000,10403919,https://api.nobelprize.org/2/nobelPrize/med/1992,447,Edwin G. Krebs,2
+1993,Chemistry,The Nobel Prize in Chemistry,1993-10-13,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/che/1993,278,Kary B. Mullis,1
+1993,Chemistry,The Nobel Prize in Chemistry,1993-10-13,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/che/1993,279,Michael Smith,2
+1993,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1993-10-12,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/eco/1993,709,Robert W. Fogel,1
+1993,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1993-10-12,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/eco/1993,710,Douglass C. North,2
+1993,Literature,The Nobel Prize in Literature,1993-10-07,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/lit/1993,670,Toni Morrison,1
+1993,Peace,The Nobel Peace Prize,1993-10-15,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/pea/1993,555,Nelson Mandela,1
+1993,Peace,The Nobel Peace Prize,1993-10-15,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/pea/1993,556,F.W. de Klerk,2
+1993,Physics,The Nobel Prize in Physics,1993-10-13,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/phy/1993,143,Russell A. Hulse,1
+1993,Physics,The Nobel Prize in Physics,1993-10-13,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/phy/1993,144,Joseph H. Taylor Jr.,2
+1993,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1993-10-11,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/med/1993,448,Richard J. Roberts,1
+1993,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1993-10-11,6700000,10245356,https://api.nobelprize.org/2/nobelPrize/med/1993,449,Phillip A. Sharp,2
+1994,Chemistry,The Nobel Prize in Chemistry,1994-10-12,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/che/1994,280,George A. Olah,1
+1994,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1994-10-11,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/eco/1994,711,John C. Harsanyi,1
+1994,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1994-10-11,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/eco/1994,712,John F. Nash Jr.,2
+1994,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1994-10-11,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/eco/1994,713,Reinhard Selten,3
+1994,Literature,The Nobel Prize in Literature,1994-10-13,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/lit/1994,671,Kenzaburo Oe,1
+1994,Peace,The Nobel Peace Prize,1994-10-14,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/pea/1994,557,Yasser Arafat,1
+1994,Peace,The Nobel Peace Prize,1994-10-14,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/pea/1994,558,Shimon Peres,2
+1994,Peace,The Nobel Peace Prize,1994-10-14,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/pea/1994,559,Yitzhak Rabin,3
+1994,Physics,The Nobel Prize in Physics,1994-10-12,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/phy/1994,145,Bertram N. Brockhouse,1
+1994,Physics,The Nobel Prize in Physics,1994-10-12,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/phy/1994,146,Clifford G. Shull,2
+1994,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1994-10-10,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/med/1994,450,Alfred G. Gilman,1
+1994,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1994-10-10,7000000,10477801,https://api.nobelprize.org/2/nobelPrize/med/1994,451,Martin Rodbell,2
+1995,Chemistry,The Nobel Prize in Chemistry,1995-10-11,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/che/1995,281,Paul J. Crutzen,1
+1995,Chemistry,The Nobel Prize in Chemistry,1995-10-11,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/che/1995,282,Mario J. Molina,2
+1995,Chemistry,The Nobel Prize in Chemistry,1995-10-11,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/che/1995,283,F. Sherwood Rowland,3
+1995,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1995-10-10,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/eco/1995,714,Robert E. Lucas Jr.,1
+1995,Literature,The Nobel Prize in Literature,1995-10-05,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/lit/1995,672,Seamus Heaney,1
+1995,Peace,The Nobel Peace Prize,1995-10-13,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/pea/1995,560,Joseph Rotblat,1
+1995,Peace,The Nobel Peace Prize,1995-10-13,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/pea/1995,561,,2
+1995,Physics,The Nobel Prize in Physics,1995-10-11,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/phy/1995,147,Martin L. Perl,1
+1995,Physics,The Nobel Prize in Physics,1995-10-11,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/phy/1995,148,Frederick Reines,2
+1995,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1995-10-09,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/med/1995,452,Edward B. Lewis,1
+1995,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1995-10-09,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/med/1995,453,Christiane Nüsslein-Volhard,2
+1995,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1995-10-09,7200000,10510515,https://api.nobelprize.org/2/nobelPrize/med/1995,454,Eric F. Wieschaus,3
+1996,Chemistry,The Nobel Prize in Chemistry,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/che/1996,284,Robert F. Curl Jr.,1
+1996,Chemistry,The Nobel Prize in Chemistry,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/che/1996,285,Sir Harold Kroto,2
+1996,Chemistry,The Nobel Prize in Chemistry,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/che/1996,286,Richard E. Smalley,3
+1996,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1996-10-08,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/eco/1996,715,James A. Mirrlees,1
+1996,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1996-10-08,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/eco/1996,716,William Vickrey,2
+1996,Literature,The Nobel Prize in Literature,1996-10-03,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/lit/1996,673,Wisława Szymborska,1
+1996,Peace,The Nobel Peace Prize,1996-10-11,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/pea/1996,562,Carlos Filipe Ximenes Belo,1
+1996,Peace,The Nobel Peace Prize,1996-10-11,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/pea/1996,563,José Ramos-Horta,2
+1996,Physics,The Nobel Prize in Physics,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/phy/1996,149,David M. Lee,1
+1996,Physics,The Nobel Prize in Physics,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/phy/1996,150,Douglas D. Osheroff,2
+1996,Physics,The Nobel Prize in Physics,1996-10-09,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/phy/1996,151,Robert C. Richardson,3
+1996,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1996-10-07,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/med/1996,455,Peter C. Doherty,1
+1996,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1996-10-07,7400000,10750752,https://api.nobelprize.org/2/nobelPrize/med/1996,456,Rolf M. Zinkernagel,2
+1997,Chemistry,The Nobel Prize in Chemistry,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/che/1997,287,Paul D. Boyer,1
+1997,Chemistry,The Nobel Prize in Chemistry,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/che/1997,288,John E. Walker,2
+1997,Chemistry,The Nobel Prize in Chemistry,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/che/1997,289,Jens C. Skou,3
+1997,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1997-10-14,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/eco/1997,717,Robert C. Merton,1
+1997,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1997-10-14,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/eco/1997,718,Myron Scholes,2
+1997,Literature,The Nobel Prize in Literature,1997-10-09,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/lit/1997,674,Dario Fo,1
+1997,Peace,The Nobel Peace Prize,1997-10-10,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/pea/1997,564,,1
+1997,Peace,The Nobel Peace Prize,1997-10-10,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/pea/1997,565,Jody Williams,2
+1997,Physics,The Nobel Prize in Physics,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/phy/1997,152,Steven Chu,1
+1997,Physics,The Nobel Prize in Physics,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/phy/1997,153,Claude Cohen-Tannoudji,2
+1997,Physics,The Nobel Prize in Physics,1997-10-15,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/phy/1997,154,William D. Phillips,3
+1997,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1997-10-06,7500000,10844112,https://api.nobelprize.org/2/nobelPrize/med/1997,457,Stanley B. Prusiner,1
+1998,Chemistry,The Nobel Prize in Chemistry,1998-10-13,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/che/1998,290,Walter Kohn,1
+1998,Chemistry,The Nobel Prize in Chemistry,1998-10-13,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/che/1998,291,John Pople,2
+1998,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1998-10-14,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/eco/1998,719,Amartya Sen,1
+1998,Literature,The Nobel Prize in Literature,1998-10-08,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/lit/1998,675,José Saramago,1
+1998,Peace,The Nobel Peace Prize,1998-10-16,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/pea/1998,566,John Hume,1
+1998,Peace,The Nobel Peace Prize,1998-10-16,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/pea/1998,567,David Trimble,2
+1998,Physics,The Nobel Prize in Physics,1998-10-13,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/phy/1998,155,Robert B. Laughlin,1
+1998,Physics,The Nobel Prize in Physics,1998-10-13,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/phy/1998,156,Horst L. Störmer,2
+1998,Physics,The Nobel Prize in Physics,1998-10-13,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/phy/1998,157,Daniel C. Tsui,3
+1998,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1998-10-12,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/med/1998,458,Robert F. Furchgott,1
+1998,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1998-10-12,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/med/1998,459,Louis J. Ignarro,2
+1998,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1998-10-12,7600000,11003681,https://api.nobelprize.org/2/nobelPrize/med/1998,460,Ferid Murad,3
+1999,Chemistry,The Nobel Prize in Chemistry,1999-10-12,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/che/1999,292,Ahmed Zewail,1
+1999,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,1999-10-13,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/eco/1999,720,Robert Mundell,1
+1999,Literature,The Nobel Prize in Literature,1999-09-30,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/lit/1999,676,Günter Grass,1
+1999,Peace,The Nobel Peace Prize,1999-10-15,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/pea/1999,568,,1
+1999,Physics,The Nobel Prize in Physics,1999-10-12,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/phy/1999,158,Gerardus 't Hooft,1
+1999,Physics,The Nobel Prize in Physics,1999-10-12,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/phy/1999,159,Martinus J.G. Veltman,2
+1999,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,1999-10-11,7900000,11383718,https://api.nobelprize.org/2/nobelPrize/med/1999,461,Günter Blobel,1
+2000,Chemistry,The Nobel Prize in Chemistry,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/che/2000,729,Alan Heeger,1
+2000,Chemistry,The Nobel Prize in Chemistry,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/che/2000,730,Alan MacDiarmid,2
+2000,Chemistry,The Nobel Prize in Chemistry,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/che/2000,731,Hideki Shirakawa,3
+2000,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2000-10-11,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/eco/2000,732,James J. Heckman,1
+2000,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2000-10-11,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/eco/2000,733,Daniel L. McFadden,2
+2000,Literature,The Nobel Prize in Literature,2000-10-12,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/lit/2000,734,Gao Xingjian,1
+2000,Peace,The Nobel Peace Prize,2000-10-13,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/pea/2000,725,Kim Dae-jung,1
+2000,Physics,The Nobel Prize in Physics,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/phy/2000,726,Zhores Alferov,1
+2000,Physics,The Nobel Prize in Physics,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/phy/2000,727,Herbert Kroemer,2
+2000,Physics,The Nobel Prize in Physics,2000-10-10,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/phy/2000,728,Jack Kilby,3
+2000,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2000-10-09,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/med/2000,722,Arvid Carlsson,1
+2000,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2000-10-09,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/med/2000,723,Paul Greengard,2
+2000,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2000-10-09,9000000,12838146,https://api.nobelprize.org/2/nobelPrize/med/2000,724,Eric Kandel,3
+2001,Chemistry,The Nobel Prize in Chemistry,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/che/2001,741,William Knowles,1
+2001,Chemistry,The Nobel Prize in Chemistry,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/che/2001,742,Ryoji Noyori,2
+2001,Chemistry,The Nobel Prize in Chemistry,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/che/2001,743,K. Barry Sharpless,3
+2001,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/eco/2001,744,George A. Akerlof,1
+2001,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/eco/2001,745,A. Michael Spence,2
+2001,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2001-10-10,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/eco/2001,746,Joseph E. Stiglitz,3
+2001,Literature,The Nobel Prize in Literature,2001-10-11,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/lit/2001,747,V. S. Naipaul,1
+2001,Peace,The Nobel Peace Prize,2001-10-12,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/pea/2001,748,,1
+2001,Peace,The Nobel Peace Prize,2001-10-12,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/pea/2001,749,Kofi Annan,2
+2001,Physics,The Nobel Prize in Physics,2001-10-09,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/phy/2001,738,Eric Cornell,1
+2001,Physics,The Nobel Prize in Physics,2001-10-09,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/phy/2001,739,Wolfgang Ketterle,2
+2001,Physics,The Nobel Prize in Physics,2001-10-09,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/phy/2001,740,Carl Wieman,3
+2001,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2001-10-08,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/med/2001,735,Leland Hartwell,1
+2001,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2001-10-08,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/med/2001,736,Tim Hunt,2
+2001,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2001-10-08,10000000,13927869,https://api.nobelprize.org/2/nobelPrize/med/2001,737,Sir Paul Nurse,3
+2002,Chemistry,The Nobel Prize in Chemistry,2002-10-09,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/che/2002,756,John B. Fenn,1
+2002,Chemistry,The Nobel Prize in Chemistry,2002-10-09,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/che/2002,757,Koichi Tanaka,2
+2002,Chemistry,The Nobel Prize in Chemistry,2002-10-09,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/che/2002,758,Kurt Wüthrich,3
+2002,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2002-10-09,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/eco/2002,759,Daniel Kahneman,1
+2002,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2002-10-09,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/eco/2002,760,Vernon L. Smith,2
+2002,Literature,The Nobel Prize in Literature,2002-10-10,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/lit/2002,761,Imre Kertész,1
+2002,Peace,The Nobel Peace Prize,2002-10-11,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/pea/2002,762,Jimmy Carter,1
+2002,Physics,The Nobel Prize in Physics,2002-10-08,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/phy/2002,753,Raymond Davis Jr.,1
+2002,Physics,The Nobel Prize in Physics,2002-10-08,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/phy/2002,754,Masatoshi Koshiba,2
+2002,Physics,The Nobel Prize in Physics,2002-10-08,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/phy/2002,755,Riccardo Giacconi,3
+2002,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2002-10-07,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/med/2002,750,Sydney Brenner,1
+2002,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2002-10-07,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/med/2002,751,H. Robert Horvitz,2
+2002,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2002-10-07,10000000,13632863,https://api.nobelprize.org/2/nobelPrize/med/2002,752,John E. Sulston,3
+2003,Chemistry,The Nobel Prize in Chemistry,2003-10-08,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/che/2003,769,Peter Agre,1
+2003,Chemistry,The Nobel Prize in Chemistry,2003-10-08,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/che/2003,770,Roderick MacKinnon,2
+2003,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2003-10-08,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/eco/2003,771,Robert F. Engle III,1
+2003,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2003-10-08,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/eco/2003,772,Clive W.J. Granger,2
+2003,Literature,The Nobel Prize in Literature,2003-10-02,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/lit/2003,763,J. M. Coetzee,1
+2003,Peace,The Nobel Peace Prize,2003-10-10,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/pea/2003,773,Shirin Ebadi,1
+2003,Physics,The Nobel Prize in Physics,2003-10-07,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/phy/2003,766,Alexei Abrikosov,1
+2003,Physics,The Nobel Prize in Physics,2003-10-07,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/phy/2003,767,Vitaly L. Ginzburg,2
+2003,Physics,The Nobel Prize in Physics,2003-10-07,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/phy/2003,768,Anthony J. Leggett,3
+2003,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2003-10-06,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/med/2003,764,Paul C. Lauterbur,1
+2003,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2003-10-06,10000000,13375315,https://api.nobelprize.org/2/nobelPrize/med/2003,765,Sir Peter Mansfield,2
+2004,Chemistry,The Nobel Prize in Chemistry,2004-10-06,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/che/2004,779,Aaron Ciechanover,1
+2004,Chemistry,The Nobel Prize in Chemistry,2004-10-06,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/che/2004,780,Avram Hershko,2
+2004,Chemistry,The Nobel Prize in Chemistry,2004-10-06,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/che/2004,781,Irwin Rose,3
+2004,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2004-10-11,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/eco/2004,786,Finn E. Kydland,1
+2004,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2004-10-11,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/eco/2004,787,Edward C. Prescott,2
+2004,Literature,The Nobel Prize in Literature,2004-10-07,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/lit/2004,782,Elfriede Jelinek,1
+2004,Peace,The Nobel Peace Prize,2004-10-08,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/pea/2004,783,Wangari Maathai,1
+2004,Physics,The Nobel Prize in Physics,2004-10-05,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/phy/2004,776,David J. Gross,1
+2004,Physics,The Nobel Prize in Physics,2004-10-05,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/phy/2004,777,H. David Politzer,2
+2004,Physics,The Nobel Prize in Physics,2004-10-05,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/phy/2004,778,Frank Wilczek,3
+2004,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2004-10-04,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/med/2004,774,Richard Axel,1
+2004,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2004-10-04,10000000,13324969,https://api.nobelprize.org/2/nobelPrize/med/2004,775,Linda B. Buck,2
+2005,Chemistry,The Nobel Prize in Chemistry,2005-10-05,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/che/2005,794,Yves Chauvin,1
+2005,Chemistry,The Nobel Prize in Chemistry,2005-10-05,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/che/2005,795,Robert H. Grubbs,2
+2005,Chemistry,The Nobel Prize in Chemistry,2005-10-05,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/che/2005,796,Richard R. Schrock,3
+2005,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2005-10-10,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/eco/2005,799,Robert J. Aumann,1
+2005,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2005-10-10,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/eco/2005,800,Thomas C. Schelling,2
+2005,Literature,The Nobel Prize in Literature,2005-10-13,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/lit/2005,801,Harold Pinter,1
+2005,Peace,The Nobel Peace Prize,2005-10-07,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/pea/2005,797,,1
+2005,Peace,The Nobel Peace Prize,2005-10-07,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/pea/2005,798,Mohamed ElBaradei,2
+2005,Physics,The Nobel Prize in Physics,2005-10-04,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/phy/2005,791,Roy J. Glauber,1
+2005,Physics,The Nobel Prize in Physics,2005-10-04,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/phy/2005,792,John L. Hall,2
+2005,Physics,The Nobel Prize in Physics,2005-10-04,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/phy/2005,793,Theodor W. Hänsch,3
+2005,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2005-10-03,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/med/2005,789,Barry J. Marshall,1
+2005,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2005-10-03,10000000,13266708,https://api.nobelprize.org/2/nobelPrize/med/2005,790,J. Robin Warren,2
+2006,Chemistry,The Nobel Prize in Chemistry,2006-10-04,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/che/2006,806,Roger D. Kornberg,1
+2006,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2006-10-09,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/eco/2006,807,Edmund S. Phelps,1
+2006,Literature,The Nobel Prize in Literature,2006-10-12,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/lit/2006,808,Orhan Pamuk,1
+2006,Peace,The Nobel Peace Prize,2006-10-13,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/pea/2006,809,Muhammad Yunus,1
+2006,Peace,The Nobel Peace Prize,2006-10-13,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/pea/2006,810,,2
+2006,Physics,The Nobel Prize in Physics,2006-10-03,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/phy/2006,804,John C. Mather,1
+2006,Physics,The Nobel Prize in Physics,2006-10-03,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/phy/2006,805,George F. Smoot,2
+2006,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2006-10-02,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/med/2006,802,Andrew Z. Fire,1
+2006,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2006-10-02,10000000,13086876,https://api.nobelprize.org/2/nobelPrize/med/2006,803,Craig C. Mello,2
+2007,Chemistry,The Nobel Prize in Chemistry,2007-10-10,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/che/2007,816,Gerhard Ertl,1
+2007,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2007-10-15,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/eco/2007,820,Leonid Hurwicz,1
+2007,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2007-10-15,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/eco/2007,821,Eric S. Maskin,2
+2007,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2007-10-15,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/eco/2007,822,Roger B. Myerson,3
+2007,Literature,The Nobel Prize in Literature,2007-10-11,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/lit/2007,817,Doris Lessing,1
+2007,Peace,The Nobel Peace Prize,2007-10-12,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/pea/2007,818,,1
+2007,Peace,The Nobel Peace Prize,2007-10-12,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/pea/2007,819,Al Gore,2
+2007,Physics,The Nobel Prize in Physics,2007-10-09,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/phy/2007,814,Albert Fert,1
+2007,Physics,The Nobel Prize in Physics,2007-10-09,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/phy/2007,815,Peter Grünberg,2
+2007,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2007-10-08,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/med/2007,811,Mario R. Capecchi,1
+2007,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2007-10-08,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/med/2007,812,Sir Martin J. Evans,2
+2007,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2007-10-08,10000000,12802893,https://api.nobelprize.org/2/nobelPrize/med/2007,813,Oliver Smithies,3
+2008,Chemistry,The Nobel Prize in Chemistry,2008-10-08,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/che/2008,829,Osamu Shimomura,1
+2008,Chemistry,The Nobel Prize in Chemistry,2008-10-08,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/che/2008,830,Martin Chalfie,2
+2008,Chemistry,The Nobel Prize in Chemistry,2008-10-08,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/che/2008,831,Roger Y. Tsien,3
+2008,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2008-10-13,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/eco/2008,834,Paul Krugman,1
+2008,Literature,The Nobel Prize in Literature,2008-10-09,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/lit/2008,832,Jean-Marie Gustave Le Clézio,1
+2008,Peace,The Nobel Peace Prize,2008-10-10,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/pea/2008,833,Martti Ahtisaari,1
+2008,Physics,The Nobel Prize in Physics,2008-10-07,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/phy/2008,826,Yoichiro Nambu,1
+2008,Physics,The Nobel Prize in Physics,2008-10-07,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/phy/2008,827,Makoto Kobayashi,2
+2008,Physics,The Nobel Prize in Physics,2008-10-07,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/phy/2008,828,Toshihide Maskawa,3
+2008,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2008-10-06,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/med/2008,823,Harald zur Hausen,1
+2008,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2008-10-06,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/med/2008,824,Françoise Barré-Sinoussi,2
+2008,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2008-10-06,10000000,12377622,https://api.nobelprize.org/2/nobelPrize/med/2008,825,Luc Montagnier,3
+2009,Chemistry,The Nobel Prize in Chemistry,2009-10-07,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/che/2009,841,Venkatraman Ramakrishnan,1
+2009,Chemistry,The Nobel Prize in Chemistry,2009-10-07,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/che/2009,842,Thomas A. Steitz,2
+2009,Chemistry,The Nobel Prize in Chemistry,2009-10-07,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/che/2009,843,Ada E. Yonath,3
+2009,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2009-10-12,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/eco/2009,846,Elinor Ostrom,1
+2009,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2009-10-12,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/eco/2009,847,Oliver E. Williamson,2
+2009,Literature,The Nobel Prize in Literature,2009-10-08,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/lit/2009,844,Herta Müller,1
+2009,Peace,The Nobel Peace Prize,2009-10-09,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/pea/2009,845,Barack H. Obama,1
+2009,Physics,The Nobel Prize in Physics,2009-10-06,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/phy/2009,838,Charles K. Kao,1
+2009,Physics,The Nobel Prize in Physics,2009-10-06,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/phy/2009,839,Willard S. Boyle,2
+2009,Physics,The Nobel Prize in Physics,2009-10-06,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/phy/2009,840,George E. Smith,3
+2009,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2009-10-05,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/med/2009,835,Elizabeth H. Blackburn,1
+2009,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2009-10-05,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/med/2009,836,Carol W. Greider,2
+2009,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2009-10-05,10000000,12413793,https://api.nobelprize.org/2/nobelPrize/med/2009,837,Jack W. Szostak,3
+2010,Chemistry,The Nobel Prize in Chemistry,2010-10-06,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/che/2010,851,Richard F. Heck,1
+2010,Chemistry,The Nobel Prize in Chemistry,2010-10-06,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/che/2010,852,Ei-ichi Negishi,2
+2010,Chemistry,The Nobel Prize in Chemistry,2010-10-06,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/che/2010,853,Akira Suzuki,3
+2010,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2010-10-11,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/eco/2010,856,Peter A. Diamond,1
+2010,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2010-10-11,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/eco/2010,857,Dale T. Mortensen,2
+2010,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2010-10-11,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/eco/2010,858,Christopher A. Pissarides,3
+2010,Literature,The Nobel Prize in Literature,2010-10-07,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/lit/2010,854,Mario Vargas Llosa,1
+2010,Peace,The Nobel Peace Prize,2010-10-08,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/pea/2010,855,Liu Xiaobo,1
+2010,Physics,The Nobel Prize in Physics,2010-10-05,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/phy/2010,849,Andre Geim,1
+2010,Physics,The Nobel Prize in Physics,2010-10-05,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/phy/2010,850,Konstantin Novoselov,2
+2010,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2010-10-04,10000000,12256203,https://api.nobelprize.org/2/nobelPrize/med/2010,848,Robert G. Edwards,1
+2011,Chemistry,The Nobel Prize in Chemistry,2011-10-05,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/che/2011,867,Dan Shechtman,1
+2011,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2011-10-10,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/eco/2011,872,Thomas J. Sargent,1
+2011,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2011-10-10,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/eco/2011,873,Christopher A. Sims,2
+2011,Literature,The Nobel Prize in Literature,2011-10-06,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/lit/2011,868,Tomas Tranströmer,1
+2011,Peace,The Nobel Peace Prize,2011-10-07,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/pea/2011,869,Ellen Johnson Sirleaf,1
+2011,Peace,The Nobel Peace Prize,2011-10-07,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/pea/2011,870,Leymah Gbowee,2
+2011,Peace,The Nobel Peace Prize,2011-10-07,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/pea/2011,871,Tawakkol Karman,3
+2011,Physics,The Nobel Prize in Physics,2011-10-04,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/phy/2011,864,Saul Perlmutter,1
+2011,Physics,The Nobel Prize in Physics,2011-10-04,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/phy/2011,865,Brian P. Schmidt,2
+2011,Physics,The Nobel Prize in Physics,2011-10-04,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/phy/2011,866,Adam G. Riess,3
+2011,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2011-10-03,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/med/2011,861,Bruce A. Beutler,1
+2011,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2011-10-03,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/med/2011,862,Jules A. Hoffmann,2
+2011,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2011-10-03,10000000,11946007,https://api.nobelprize.org/2/nobelPrize/med/2011,863,Ralph M. Steinman,3
+2012,Chemistry,The Nobel Prize in Chemistry,2012-10-10,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/che/2012,878,Robert J. Lefkowitz,1
+2012,Chemistry,The Nobel Prize in Chemistry,2012-10-10,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/che/2012,879,Brian Kobilka,2
+2012,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2012-10-15,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/eco/2012,882,Alvin E. Roth,1
+2012,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2012-10-15,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/eco/2012,883,Lloyd S. Shapley,2
+2012,Literature,The Nobel Prize in Literature,2012-10-11,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/lit/2012,880,Mo Yan,1
+2012,Peace,The Nobel Peace Prize,2012-10-12,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/pea/2012,881,,1
+2012,Physics,The Nobel Prize in Physics,2012-10-09,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/phy/2012,876,Serge Haroche,1
+2012,Physics,The Nobel Prize in Physics,2012-10-09,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/phy/2012,877,David J. Wineland,2
+2012,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2012-10-08,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/med/2012,874,Sir John B. Gurdon,1
+2012,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2012-10-08,8000000,9471572,https://api.nobelprize.org/2/nobelPrize/med/2012,875,Shinya Yamanaka,2
+2013,Chemistry,The Nobel Prize in Chemistry,2013-10-09,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/che/2013,889,Martin Karplus,1
+2013,Chemistry,The Nobel Prize in Chemistry,2013-10-09,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/che/2013,890,Michael Levitt,2
+2013,Chemistry,The Nobel Prize in Chemistry,2013-10-09,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/che/2013,891,Arieh Warshel,3
+2013,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2013-10-14,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/eco/2013,894,Eugene F. Fama,1
+2013,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2013-10-14,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/eco/2013,895,Lars Peter Hansen,2
+2013,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2013-10-14,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/eco/2013,896,Robert J. Shiller,3
+2013,Literature,The Nobel Prize in Literature,2013-10-10,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/lit/2013,892,Alice Munro,1
+2013,Peace,The Nobel Peace Prize,2013-10-11,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/pea/2013,893,,1
+2013,Physics,The Nobel Prize in Physics,2013-10-08,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/phy/2013,887,François Englert,1
+2013,Physics,The Nobel Prize in Physics,2013-10-08,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/phy/2013,888,Peter Higgs,2
+2013,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2013-10-07,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/med/2013,884,James E. Rothman,1
+2013,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2013-10-07,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/med/2013,885,Randy W. Schekman,2
+2013,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2013-10-07,8000000,9476854,https://api.nobelprize.org/2/nobelPrize/med/2013,886,Thomas C. Südhof,3
+2014,Chemistry,The Nobel Prize in Chemistry,2014-10-08,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/che/2014,909,Eric Betzig,1
+2014,Chemistry,The Nobel Prize in Chemistry,2014-10-08,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/che/2014,910,Stefan W. Hell,2
+2014,Chemistry,The Nobel Prize in Chemistry,2014-10-08,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/che/2014,911,William E. Moerner,3
+2014,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2014-10-13,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/eco/2014,915,Jean Tirole,1
+2014,Literature,The Nobel Prize in Literature,2014-10-09,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/lit/2014,912,Patrick Modiano,1
+2014,Peace,The Nobel Peace Prize,2014-10-10,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/pea/2014,913,Kailash Satyarthi,1
+2014,Peace,The Nobel Peace Prize,2014-10-10,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/pea/2014,914,Malala Yousafzai,2
+2014,Physics,The Nobel Prize in Physics,2014-10-07,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/phy/2014,906,Isamu Akasaki,1
+2014,Physics,The Nobel Prize in Physics,2014-10-07,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/phy/2014,907,Hiroshi Amano,2
+2014,Physics,The Nobel Prize in Physics,2014-10-07,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/phy/2014,908,Shuji Nakamura,3
+2014,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2014-10-06,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/med/2014,903,John O'Keefe,1
+2014,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2014-10-06,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/med/2014,904,May-Britt Moser,2
+2014,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2014-10-06,8000000,9492737,https://api.nobelprize.org/2/nobelPrize/med/2014,905,Edvard I. Moser,3
+2015,Chemistry,The Nobel Prize in Chemistry,2015-10-07,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/che/2015,921,Tomas Lindahl,1
+2015,Chemistry,The Nobel Prize in Chemistry,2015-10-07,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/che/2015,922,Paul Modrich,2
+2015,Chemistry,The Nobel Prize in Chemistry,2015-10-07,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/che/2015,923,Aziz Sancar,3
+2015,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2015-10-12,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/eco/2015,926,Angus Deaton,1
+2015,Literature,The Nobel Prize in Literature,2015-10-08,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/lit/2015,924,Svetlana Alexievich,1
+2015,Peace,The Nobel Peace Prize,2015-10-09,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/pea/2015,925,,1
+2015,Physics,The Nobel Prize in Physics,2015-10-06,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/phy/2015,919,Takaaki Kajita,1
+2015,Physics,The Nobel Prize in Physics,2015-10-06,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/phy/2015,920,Arthur B. McDonald,2
+2015,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2015-10-05,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/med/2015,916,William C. Campbell,1
+2015,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2015-10-05,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/med/2015,917,Satoshi Ōmura,2
+2015,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2015-10-05,8000000,9498044,https://api.nobelprize.org/2/nobelPrize/med/2015,918,Tu Youyou,3
+2016,Chemistry,The Nobel Prize in Chemistry,2016-10-05,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/che/2016,931,Jean-Pierre Sauvage,1
+2016,Chemistry,The Nobel Prize in Chemistry,2016-10-05,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/che/2016,932,Sir J. Fraser Stoddart,2
+2016,Chemistry,The Nobel Prize in Chemistry,2016-10-05,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/che/2016,933,Bernard L. Feringa,3
+2016,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2016-10-10,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/eco/2016,935,Oliver Hart,1
+2016,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2016-10-10,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/eco/2016,936,Bengt Holmström,2
+2016,Literature,The Nobel Prize in Literature,2016-10-13,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/lit/2016,937,Bob Dylan,1
+2016,Peace,The Nobel Peace Prize,2016-10-07,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/pea/2016,934,Juan Manuel Santos,1
+2016,Physics,The Nobel Prize in Physics,2016-10-04,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/phy/2016,928,David J. Thouless,1
+2016,Physics,The Nobel Prize in Physics,2016-10-04,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/phy/2016,929,F. Duncan M. Haldane,2
+2016,Physics,The Nobel Prize in Physics,2016-10-04,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/phy/2016,930,J. Michael Kosterlitz,3
+2016,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2016-10-03,8000000,9403431,https://api.nobelprize.org/2/nobelPrize/med/2016,927,Yoshinori Ohsumi,1
+2017,Chemistry,The Nobel Prize in Chemistry,2017-10-04,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/che/2017,944,Jacques Dubochet,1
+2017,Chemistry,The Nobel Prize in Chemistry,2017-10-04,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/che/2017,945,Joachim Frank,2
+2017,Chemistry,The Nobel Prize in Chemistry,2017-10-04,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/che/2017,946,Richard Henderson,3
+2017,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2017-10-09,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/eco/2017,949,Richard H. Thaler,1
+2017,Literature,The Nobel Prize in Literature,2017-10-05,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/lit/2017,947,Kazuo Ishiguro,1
+2017,Peace,The Nobel Peace Prize,2017-10-06,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/pea/2017,948,,1
+2017,Physics,The Nobel Prize in Physics,2017-10-03,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/phy/2017,941,Rainer Weiss,1
+2017,Physics,The Nobel Prize in Physics,2017-10-03,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/phy/2017,942,Barry C. Barish,2
+2017,Physics,The Nobel Prize in Physics,2017-10-03,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/phy/2017,943,Kip S. Thorne,3
+2017,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2017-10-02,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/med/2017,938,Jeffrey C. Hall,1
+2017,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2017-10-02,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/med/2017,939,Michael Rosbash,2
+2017,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2017-10-02,9000000,10394780,https://api.nobelprize.org/2/nobelPrize/med/2017,940,Michael W. Young,3
+2018,Chemistry,The Nobel Prize in Chemistry,2018-10-03,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/che/2018,963,Frances H. Arnold,1
+2018,Chemistry,The Nobel Prize in Chemistry,2018-10-03,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/che/2018,964,George P. Smith,2
+2018,Chemistry,The Nobel Prize in Chemistry,2018-10-03,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/che/2018,965,Sir Gregory P. Winter,3
+2018,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2018-10-01,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/eco/2018,968,William D. Nordhaus,1
+2018,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2018-10-01,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/eco/2018,969,Paul M. Romer,2
+2018,Literature,The Nobel Prize in Literature,2019-10-10,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/lit/2018,979,Olga Tokarczuk,1
+2018,Peace,The Nobel Peace Prize,2018-10-05,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/pea/2018,966,Denis Mukwege,1
+2018,Peace,The Nobel Peace Prize,2018-10-05,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/pea/2018,967,Nadia Murad,2
+2018,Physics,The Nobel Prize in Physics,2018-10-02,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/phy/2018,960,Arthur Ashkin,1
+2018,Physics,The Nobel Prize in Physics,2018-10-02,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/phy/2018,961,Gérard Mourou,2
+2018,Physics,The Nobel Prize in Physics,2018-10-02,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/phy/2018,962,Donna Strickland,3
+2018,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2018-10-01,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/med/2018,958,James P. Allison,1
+2018,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2018-10-01,9000000,10195200,https://api.nobelprize.org/2/nobelPrize/med/2018,959,Tasuku Honjo,2
+2019,Chemistry,The Nobel Prize in Chemistry,2019-10-09,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/che/2019,976,John B. Goodenough,1
+2019,Chemistry,The Nobel Prize in Chemistry,2019-10-09,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/che/2019,977,M. Stanley Whittingham,2
+2019,Chemistry,The Nobel Prize in Chemistry,2019-10-09,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/che/2019,978,Akira Yoshino,3
+2019,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2019-10-14,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/eco/2019,982,Abhijit Banerjee,1
+2019,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2019-10-14,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/eco/2019,983,Esther Duflo,2
+2019,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2019-10-14,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/eco/2019,984,Michael Kremer,3
+2019,Literature,The Nobel Prize in Literature,2019-10-10,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/lit/2019,980,Peter Handke,1
+2019,Peace,The Nobel Peace Prize,2019-10-11,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/pea/2019,981,Abiy Ahmed Ali,1
+2019,Physics,The Nobel Prize in Physics,2019-10-08,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/phy/2019,973,James Peebles,1
+2019,Physics,The Nobel Prize in Physics,2019-10-08,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/phy/2019,974,Michel Mayor,2
+2019,Physics,The Nobel Prize in Physics,2019-10-08,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/phy/2019,975,Didier Queloz,3
+2019,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2019-10-07,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/med/2019,970,William G. Kaelin Jr,1
+2019,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2019-10-07,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/med/2019,971,Sir Peter J. Ratcliffe,2
+2019,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2019-10-07,9000000,10013620,https://api.nobelprize.org/2/nobelPrize/med/2019,972,Gregg L. Semenza,3
+2020,Chemistry,The Nobel Prize in Chemistry,2020-10-07,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/che/2020,991,Emmanuelle Charpentier,1
+2020,Chemistry,The Nobel Prize in Chemistry,2020-10-07,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/che/2020,992,Jennifer A. Doudna,2
+2020,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2020-10-12,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/eco/2020,995,Paul R. Milgrom,1
+2020,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2020-10-12,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/eco/2020,996,Robert B. Wilson,2
+2020,Literature,The Nobel Prize in Literature,2020-10-08,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/lit/2020,993,Louise Glück,1
+2020,Peace,The Nobel Peace Prize,2020-10-09,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/pea/2020,994,,1
+2020,Physics,The Nobel Prize in Physics,2020-10-06,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/phy/2020,988,Roger Penrose,1
+2020,Physics,The Nobel Prize in Physics,2020-10-06,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/phy/2020,989,Reinhard Genzel,2
+2020,Physics,The Nobel Prize in Physics,2020-10-06,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/phy/2020,990,Andrea Ghez,3
+2020,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2020-10-05,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/med/2020,985,Harvey J. Alter,1
+2020,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2020-10-05,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/med/2020,986,Michael Houghton,2
+2020,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2020-10-05,10000000,11074035,https://api.nobelprize.org/2/nobelPrize/med/2020,987,Charles M. Rice,3
+2021,Chemistry,The Nobel Prize in Chemistry,2021-10-06,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/che/2021,1002,Benjamin List,1
+2021,Chemistry,The Nobel Prize in Chemistry,2021-10-06,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/che/2021,1003,David W.C. MacMillan,2
+2021,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2021-10-11,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/eco/2021,1007,David Card,1
+2021,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2021-10-11,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/eco/2021,1008,Joshua D. Angrist,2
+2021,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2021-10-11,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/eco/2021,1009,Guido W. Imbens,3
+2021,Literature,The Nobel Prize in Literature,2021-10-07,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/lit/2021,1004,Abdulrazak Gurnah,1
+2021,Peace,The Nobel Peace Prize,2021-10-08,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/pea/2021,1005,Maria Ressa,1
+2021,Peace,The Nobel Peace Prize,2021-10-08,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/pea/2021,1006,Dmitry Muratov,2
+2021,Physics,The Nobel Prize in Physics,2021-10-05,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/phy/2021,999,Syukuro Manabe,1
+2021,Physics,The Nobel Prize in Physics,2021-10-05,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/phy/2021,1000,Klaus Hasselmann,2
+2021,Physics,The Nobel Prize in Physics,2021-10-05,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/phy/2021,1001,Giorgio Parisi,3
+2021,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2021-10-04,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/med/2021,997,David Julius,1
+2021,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2021-10-04,10000000,10836735,https://api.nobelprize.org/2/nobelPrize/med/2021,998,Ardem Patapoutian,2
+2022,Chemistry,The Nobel Prize in Chemistry,2022-10-05,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/che/2022,1015,Carolyn Bertozzi,1
+2022,Chemistry,The Nobel Prize in Chemistry,2022-10-05,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/che/2022,1016,Morten Meldal,2
+2022,Chemistry,The Nobel Prize in Chemistry,2022-10-05,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/che/2022,743,K. Barry Sharpless,3
+2022,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2011-10-10,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/eco/2022,1021,Ben Bernanke,1
+2022,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2011-10-10,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/eco/2022,1022,Douglas Diamond,2
+2022,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2011-10-10,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/eco/2022,1023,Philip Dybvig,3
+2022,Literature,The Nobel Prize in Literature,2022-10-06,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/lit/2022,1017,Annie Ernaux,1
+2022,Peace,The Nobel Peace Prize,2022-10-07,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/pea/2022,1018,Ales Bialiatski,1
+2022,Peace,The Nobel Peace Prize,2022-10-07,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/pea/2022,1019,,2
+2022,Peace,The Nobel Peace Prize,2022-10-07,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/pea/2022,1020,,3
+2022,Physics,The Nobel Prize in Physics,2022-10-04,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/phy/2022,1012,Alain Aspect,1
+2022,Physics,The Nobel Prize in Physics,2022-10-04,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/phy/2022,1013,John Clauser,2
+2022,Physics,The Nobel Prize in Physics,2022-10-04,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/phy/2022,1014,Anton Zeilinger,3
+2022,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2022-10-03,10000000,10000000,https://api.nobelprize.org/2/nobelPrize/med/2022,1011,Svante Pääbo,1
+2023,Chemistry,The Nobel Prize in Chemistry,2023-10-04,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/che/2023,1029,Moungi Bawendi,1
+2023,Chemistry,The Nobel Prize in Chemistry,2023-10-04,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/che/2023,1030,Louis Brus,2
+2023,Chemistry,The Nobel Prize in Chemistry,2023-10-04,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/che/2023,1031,Aleksey Yekimov ,3
+2023,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2023-10-09,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/eco/2023,1034,Claudia Goldin,1
+2023,Literature,The Nobel Prize in Literature,2023-10-05,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/lit/2023,1032,Jon Fosse,1
+2023,Peace,The Nobel Peace Prize,2023-10-06,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/pea/2023,1033,Narges Mohammadi,1
+2023,Physics,The Nobel Prize in Physics,2023-10-03,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/phy/2023,1026,Pierre Agostini,1
+2023,Physics,The Nobel Prize in Physics,2023-10-03,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/phy/2023,1027,Ferenc Krausz,2
+2023,Physics,The Nobel Prize in Physics,2023-10-03,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/phy/2023,1028,Anne L’Huillier,3
+2023,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2023-10-02,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/med/2023,1024,Katalin Karikó,1
+2023,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2023-10-02,11000000,10136226,https://api.nobelprize.org/2/nobelPrize/med/2023,1025,Drew Weissman,2
+2024,Chemistry,The Nobel Prize in Chemistry,2024-10-09,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/che/2024,1039,David Baker,1
+2024,Chemistry,The Nobel Prize in Chemistry,2024-10-09,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/che/2024,1040,Demis Hassabis,2
+2024,Chemistry,The Nobel Prize in Chemistry,2024-10-09,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/che/2024,1041,John Jumper,3
+2024,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2024-10-14,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/eco/2024,1044,Daron Acemoglu,1
+2024,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2024-10-14,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/eco/2024,1045,Simon Johnson,2
+2024,Economic Sciences,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,2024-10-14,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/eco/2024,1046,James A. Robinson,3
+2024,Literature,The Nobel Prize in Literature,2024-10-10,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/lit/2024,1042,Han Kang,1
+2024,Peace,The Nobel Peace Prize,2024-10-11,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/pea/2024,1043,,1
+2024,Physics,The Nobel Prize in Physics,2024-10-08,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/phy/2024,1037,John J. Hopfield,1
+2024,Physics,The Nobel Prize in Physics,2024-10-08,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/phy/2024,1038,Geoffrey Hinton,2
+2024,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2024-10-07,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/med/2024,1035,Victor Ambros,1
+2024,Physiology or Medicine,The Nobel Prize in Physiology or Medicine,2024-10-07,11000000,11000000,https://api.nobelprize.org/2/nobelPrize/med/2024,1036,Gary Ruvkun,2
